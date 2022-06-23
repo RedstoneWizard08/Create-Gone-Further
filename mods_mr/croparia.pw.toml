@@ -1,0 +1,13 @@
+name = "Croparia"
+filename = "[FABRIC]-Croparia-3.8.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/OoINVquf/versions/3.8.1/%5BFABRIC%5D-Croparia-3.8.1.jar"
+hash-format = "sha1"
+hash = "0c8bbc920b569c76e44b93de4b139c88a51d518d"
+
+[update]
+[update.modrinth]
+mod-id = "OoINVquf"
+version = "LWjzpI4W"

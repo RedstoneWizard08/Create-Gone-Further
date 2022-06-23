@@ -37,3 +37,4 @@ config.json
 mods.json
 node_modules
 .git
+mods/__modrinth_*.toml

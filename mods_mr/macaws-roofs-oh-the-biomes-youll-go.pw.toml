@@ -1,0 +1,13 @@
+name = "Macaw's Roofs - Oh The Biomes You'll Go"
+filename = "macawsroofsbyg-fabric-1.18.2-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7d45e1081e70c953cd776b30d61301c234d70fc0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3755969
+project-id = 577356

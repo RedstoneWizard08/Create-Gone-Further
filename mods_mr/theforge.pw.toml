@@ -1,0 +1,13 @@
+name = "The Forge - Modular Tools for Fabric"
+filename = "the-forge-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qzKPv7RF/versions/1.1.0/the-forge-1.1.0.jar"
+hash-format = "sha1"
+hash = "2260829707fd0f7d93edf66252ce651d6d8ddba3"
+
+[update]
+[update.modrinth]
+mod-id = "qzKPv7RF"
+version = "lNkeun87"

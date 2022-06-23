@@ -1,0 +1,13 @@
+name = "Simple Grinder"
+filename = "simplegrinder-18_2.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1ed313fb8ae78ae2a94b71e4b871b531fc001552"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3674337
+project-id = 238899
