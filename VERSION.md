@@ -1,3 +1,4 @@
+Another beta version! v0.2.0 fixes a ton of problems and removes uploading all of the mods inside of the pack file.
 
 ### Mod List
 
@@ -13,7 +14,6 @@
 - Applied Energistics 2 Wireless Terminals
 - Applied Energistics 2
 - Architectury API (Fabric/Forge)
-- Architectury API (UNUSED)
 - AttributeFix
 - Auto Config Updated API
 - AutoReconnect
@@ -48,7 +48,6 @@
 - ClickThrough
 - Client Side Noteblocks
 - Climb Ladders Fast [Fabric/Forge]
-- Cloth Config API (UNUSED)
 - Cloth Config API (Fabric/Forge)
 - Clumps
 - Collective (Fabric)
@@ -114,7 +113,6 @@
 - Inventory Sorting
 - Iron Jetpacks Fabric
 - Isometric Renders
-- Item Filters (Old)
 - Item Filters
 - Item Model Fix (Fabric)
 - Items IDs WorldEdit [Fabric]
@@ -168,7 +166,6 @@
 - Phonos
 - Phosphor (Fabric)
 - Physics Mod
-- Pig Pen Cipher
 - ProbeJS
 - Reborn Core
 - Reese's Sodium Options
@@ -178,7 +175,6 @@
 - Roughly Enough Professions (REP)
 - Roughly Enough Resources
 - Roughly Searchable
-- Runelic
 - ShetiPhianCore [Fabric]
 - ShulkerBoxTooltip
 - Simple Backpack [FABRIC]

@@ -2,7 +2,7 @@
 
 ![Version](https://img.shields.io/static/v1?label=Version&message=0.1.0&color=blue&style=for-the-badge)
 ![Fabric](https://img.shields.io/static/v1?label=Fabric&message=1.18.2+/+0.14.7&color=blue&style=for-the-badge)
-![Modrinth](https://img.shields.io/static/v1?label=Modrinth&message=Beta&color=orange&style=for-the-badge)
+[![Modrinth](https://img.shields.io/static/v1?label=Modrinth&message=Beta&color=orange&style=for-the-badge)](https://modrinth.com/modpack/create-gone-further)
 ![CurseForge](https://img.shields.io/static/v1?label=CurseForge&message=Not%20Available&color=red&style=for-the-badge)
 ![Maintained](https://img.shields.io/static/v1?label=Maintained&message=Yes&color=orange&style=for-the-badge)
 
