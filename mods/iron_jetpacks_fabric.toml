@@ -1,8 +1,0 @@
-name = "Iron Jetpacks Fabric"
-filename = "iron-jetpacks-0.4.3.jar"
-side = "both"
-
-[download]
-url = "https://edge.forgecdn.net/files/3734/921/iron-jetpacks-0.4.3.jar"
-hash-format = "sha1"
-hash = "cd68f81eb9bf9cd570ce765ab3ca6a817a72f781"

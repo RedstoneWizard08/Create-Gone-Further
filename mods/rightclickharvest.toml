@@ -1,8 +1,0 @@
-name = "RightClickHarvest"
-filename = "rightclickharvest-2.1.1.jar"
-side = "both"
-
-[download]
-url = "https://edge.forgecdn.net/files/3834/606/rightclickharvest-2.1.1.jar"
-hash-format = "sha1"
-hash = "8ae45c28ee99704a7d3261701181784415fe3920"

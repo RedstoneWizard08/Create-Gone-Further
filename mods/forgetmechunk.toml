@@ -1,8 +1,0 @@
-name = "ForgetMeChunk"
-filename = "forgetmechunk-1.0.4-1.18.X-1.19.X.jar"
-side = "both"
-
-[download]
-url = "https://edge.forgecdn.net/files/3828/148/forgetmechunk-1.0.4-1.18.X-1.19.X.jar"
-hash-format = "sha1"
-hash = "ed03ad25fb8cbfae4637edd5a4dd6386d9a6231e"

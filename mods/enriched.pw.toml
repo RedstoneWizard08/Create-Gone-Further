@@ -1,0 +1,13 @@
+name = "Enriched"
+filename = "enriched-2.3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c15333020db0c90ef97aa22badd02e3131ca2d0f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3706116
+project-id = 373858

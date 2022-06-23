@@ -1,8 +1,0 @@
-name = "YUNG's Better Mineshafts (Fabric)"
-filename = "YungsBetterMineshafts-1.18.2-Fabric-2.1.4.jar"
-side = "both"
-
-[download]
-url = "https://edge.forgecdn.net/files/3841/867/YungsBetterMineshafts-1.18.2-Fabric-2.1.4.jar"
-hash-format = "sha1"
-hash = "427184b3296c592f8a853d4e174f2d077b63e8f0"

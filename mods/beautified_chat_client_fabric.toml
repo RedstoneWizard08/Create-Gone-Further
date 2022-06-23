@@ -1,8 +1,0 @@
-name = "Beautified Chat [Client] (Fabric)"
-filename = "beautifiedchatclient-fabric_1.18.x-1.0.jar"
-side = "both"
-
-[download]
-url = "https://edge.forgecdn.net/files/3542/333/beautifiedchatclient-fabric_1.18.x-1.0.jar"
-hash-format = "sha1"
-hash = "f465f4f5fce552d5c8543a44ca0aa69a65bc4466"

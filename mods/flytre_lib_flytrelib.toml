@@ -1,8 +1,0 @@
-name = "Flytre Lib (FlytreLib)"
-filename = "flytre_lib-1.18.2-1.8.2-fabric.jar"
-side = "both"
-
-[download]
-url = "https://edge.forgecdn.net/files/3818/660/flytre_lib-1.18.2-1.8.2-fabric.jar"
-hash-format = "sha1"
-hash = "2c6d88902e9d7d052208a8b11b53352df98f0f9d"

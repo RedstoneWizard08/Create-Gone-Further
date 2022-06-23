@@ -1,8 +1,0 @@
-name = "MixinTrace"
-filename = "mixintrace-1.1.1+1.17.jar"
-side = "both"
-
-[download]
-url = "https://edge.forgecdn.net/files/3831/43/mixintrace-1.1.1+1.17.jar"
-hash-format = "sha1"
-hash = "7fbb0130db0e427ee7180d304dfa65c46f0e3b69"

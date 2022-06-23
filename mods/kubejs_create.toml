@@ -1,8 +1,0 @@
-name = "KubeJS Create"
-filename = "kubejs-create-fabric-1802.2.2-build.26.jar"
-side = "both"
-
-[download]
-url = "https://edge.forgecdn.net/files/3815/883/kubejs-create-fabric-1802.2.2-build.26.jar"
-hash-format = "sha1"
-hash = "cb1c2322ef5d514a0153ad8622cb297f24419352"

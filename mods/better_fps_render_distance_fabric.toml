@@ -1,8 +1,0 @@
-name = "Better Fps - Render Distance[Fabric]"
-filename = "betterfpsdist-fabric-1.18-1.8.jar"
-side = "both"
-
-[download]
-url = "https://edge.forgecdn.net/files/3768/225/betterfpsdist-fabric-1.18-1.8.jar"
-hash-format = "sha1"
-hash = "e6c34589a586600bae7e7c1135d947229b9263ff"

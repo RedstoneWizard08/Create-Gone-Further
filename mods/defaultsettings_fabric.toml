@@ -1,8 +1,0 @@
-name = "DefaultSettings Fabric"
-filename = "DefaultSettings-1.18.x-3.5.1.jar"
-side = "both"
-
-[download]
-url = "https://edge.forgecdn.net/files/3726/366/DefaultSettings-1.18.x-3.5.1.jar"
-hash-format = "sha1"
-hash = "01aeef90f8e805671c03e3b27a1efeea2c42edff"

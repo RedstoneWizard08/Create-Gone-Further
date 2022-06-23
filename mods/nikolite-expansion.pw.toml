@@ -1,0 +1,13 @@
+name = "Nikolite Expansion"
+filename = "indrev-nikolite-1.0+1.18.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "393174ed160b84fc277e398944ad94f9850cc0ac"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3579149
+project-id = 517418

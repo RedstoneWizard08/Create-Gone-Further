@@ -1,8 +1,0 @@
-name = "Ender Bundle"
-filename = "enderbundle-fabric-1.10.0.jar"
-side = "both"
-
-[download]
-url = "https://edge.forgecdn.net/files/3815/142/enderbundle-fabric-1.10.0.jar"
-hash-format = "sha1"
-hash = "bc6fc7fd490e7606daac15d745e086aead763fa8"

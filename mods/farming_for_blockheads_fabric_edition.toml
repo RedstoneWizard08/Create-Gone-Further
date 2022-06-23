@@ -1,8 +1,0 @@
-name = "Farming for Blockheads (Fabric Edition)"
-filename = "farmingforblockheads-fabric-1.18.2-10.0.2.jar"
-side = "both"
-
-[download]
-url = "https://edge.forgecdn.net/files/3830/915/farmingforblockheads-fabric-1.18.2-10.0.2.jar"
-hash-format = "sha1"
-hash = "68a97537ee619f6d91848224b66e060cb824cd72"

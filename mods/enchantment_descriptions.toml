@@ -1,8 +1,0 @@
-name = "Enchantment Descriptions"
-filename = "EnchantmentDescriptions-Fabric-1.18.2-10.0.4.jar"
-side = "both"
-
-[download]
-url = "https://edge.forgecdn.net/files/3821/22/EnchantmentDescriptions-Fabric-1.18.2-10.0.4.jar"
-hash-format = "sha1"
-hash = "03ba69ad9b4de310789f45d181b65d0d05b82d6a"

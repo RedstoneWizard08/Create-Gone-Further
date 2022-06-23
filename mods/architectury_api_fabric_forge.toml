@@ -1,8 +1,0 @@
-name = "Architectury API (Fabric/Forge)"
-filename = "architectury-4.5.75-fabric.jar"
-side = "both"
-
-[download]
-url = "https://edge.forgecdn.net/files/3843/621/architectury-4.5.75-fabric.jar"
-hash-format = "sha1"
-hash = "6313e64b038ad23de5a65803e0e556f18a1daec7"

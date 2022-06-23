@@ -1,8 +1,0 @@
-name = "Wireless Networks"
-filename = "wirelessnetworks-1.5.1.jar"
-side = "both"
-
-[download]
-url = "https://edge.forgecdn.net/files/3759/595/wirelessnetworks-1.5.1.jar"
-hash-format = "sha1"
-hash = "719c4e0b2d13482776957595fa39cc3baea70f6e"

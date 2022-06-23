@@ -1,8 +1,0 @@
-name = "Fabric Waystones"
-filename = "wraith-waystones-2.5.4.jar"
-side = "both"
-
-[download]
-url = "https://edge.forgecdn.net/files/3820/904/wraith-waystones-2.5.4.jar"
-hash-format = "sha1"
-hash = "66dfb3c444db9d59317a1670859937e04c584f69"

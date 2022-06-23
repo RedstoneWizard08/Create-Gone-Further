@@ -1,8 +1,0 @@
-name = "Extra Generators"
-filename = "extra-generators-1.2.1-BETA+1.18.jar"
-side = "both"
-
-[download]
-url = "https://edge.forgecdn.net/files/3770/936/extra-generators-1.2.1-BETA+1.18.jar"
-hash-format = "sha1"
-hash = "d58aa38f47fe751381af8574c7d4a2471136f112"

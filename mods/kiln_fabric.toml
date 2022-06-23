@@ -1,8 +1,0 @@
-name = "Kiln (Fabric)"
-filename = "kiln-1.18-1.0.0.jar"
-side = "both"
-
-[download]
-url = "https://edge.forgecdn.net/files/3723/859/kiln-1.18-1.0.0.jar"
-hash-format = "sha1"
-hash = "2074607761d9ec6197767a8cbd4775523f056f2f"

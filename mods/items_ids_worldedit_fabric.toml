@@ -1,8 +1,0 @@
-name = "Items IDs WorldEdit [Fabric]"
-filename = "Items+IDs+WorldEdit+for+1.18.2-5.0.0.jar"
-side = "both"
-
-[download]
-url = "https://edge.forgecdn.net/files/3668/349/Items+IDs+WorldEdit+for+1.18.2-5.0.0.jar"
-hash-format = "sha1"
-hash = "5f0eaefc3f97f983efbe586b29b91c5b9d6a9e40"

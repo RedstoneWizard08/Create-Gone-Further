@@ -1,8 +1,0 @@
-name = "Mouse Wheelie (Fabric)"
-filename = "mousewheelie-1.10.0+mc1.18.2.jar"
-side = "both"
-
-[download]
-url = "https://edge.forgecdn.net/files/3844/131/mousewheelie-1.10.0+mc1.18.2.jar"
-hash-format = "sha1"
-hash = "52a15c4a0730fcbd9009168ffef5748eff2afa13"

@@ -1,8 +1,0 @@
-name = "Industrial Revolution"
-filename = "indrev-1.14.0-BETA.jar"
-side = "both"
-
-[download]
-url = "https://edge.forgecdn.net/files/3759/591/indrev-1.14.0-BETA.jar"
-hash-format = "sha1"
-hash = "3889a3514ba634be7644fb239c7e4ad4e724c00a"

@@ -1,8 +1,0 @@
-name = "ShetiPhianCore [Fabric]"
-filename = "shetiphiancore-fabric-1.18-1.2.11.jar"
-side = "both"
-
-[download]
-url = "https://edge.forgecdn.net/files/3832/657/shetiphiancore-fabric-1.18-1.2.11.jar"
-hash-format = "sha1"
-hash = "8ac65ce28f60f7e9e055d4ee633c9d55fb5c57ee"

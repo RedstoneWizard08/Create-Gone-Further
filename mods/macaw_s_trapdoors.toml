@@ -1,8 +1,0 @@
-name = "Macaw's Trapdoors"
-filename = "mcw-trapdoors-1.0.5fabric-mc1.18.2.jar"
-side = "both"
-
-[download]
-url = "https://edge.forgecdn.net/files/3682/902/mcw-trapdoors-1.0.5fabric-mc1.18.2.jar"
-hash-format = "sha1"
-hash = "69d11bd01993ada0a5904b70f475dd754ddc82c1"

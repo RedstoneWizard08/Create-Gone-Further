@@ -1,8 +1,0 @@
-name = "BetterEnd"
-filename = "better-end-1.1.1.jar"
-side = "both"
-
-[download]
-url = "https://edge.forgecdn.net/files/3814/370/better-end-1.1.1.jar"
-hash-format = "sha1"
-hash = "ec44636a77d9549fc7108051fb6ac7523c0dec57"

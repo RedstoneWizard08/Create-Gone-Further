@@ -1,8 +1,0 @@
-name = "Disenchanter"
-filename = "disenchanter-0.1.6+1.18.jar"
-side = "both"
-
-[download]
-url = "https://edge.forgecdn.net/files/3763/996/disenchanter-0.1.6+1.18.jar"
-hash-format = "sha1"
-hash = "d54d7d19d2c4349e1fa883706d5b8d35424a0b2e"

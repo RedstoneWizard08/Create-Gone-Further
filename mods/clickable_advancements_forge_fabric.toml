@@ -1,8 +1,0 @@
-name = "Clickable advancements[Forge/Fabric]"
-filename = "clickadv-fabric-2.6.jar"
-side = "both"
-
-[download]
-url = "https://edge.forgecdn.net/files/3791/79/clickadv-fabric-2.6.jar"
-hash-format = "sha1"
-hash = "ca251335f69351c5416e97801967b4e3e63aebb2"

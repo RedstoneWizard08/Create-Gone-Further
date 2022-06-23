@@ -1,8 +1,0 @@
-name = "Fabric Language Kotlin"
-filename = "fabric-language-kotlin-1.8.0+kotlin.1.7.0.jar"
-side = "both"
-
-[download]
-url = "https://edge.forgecdn.net/files/3825/17/fabric-language-kotlin-1.8.0+kotlin.1.7.0.jar"
-hash-format = "sha1"
-hash = "4b38e57770d29aedcce5c2d0081e815c40f86c12"

@@ -1,8 +1,0 @@
-name = "Enhanced Block Entities"
-filename = "enhancedblockentities-0.7.1+1.18.2.jar"
-side = "both"
-
-[download]
-url = "https://edge.forgecdn.net/files/3841/822/enhancedblockentities-0.7.1+1.18.2.jar"
-hash-format = "sha1"
-hash = "e09988fed9394ec5858b81400ba96d2b8b8cab1a"

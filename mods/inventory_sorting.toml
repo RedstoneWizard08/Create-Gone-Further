@@ -1,8 +1,0 @@
-name = "Inventory Sorting"
-filename = "InventorySorter-1.8.8-1.18.jar"
-side = "both"
-
-[download]
-url = "https://edge.forgecdn.net/files/3822/195/InventorySorter-1.8.8-1.18.jar"
-hash-format = "sha1"
-hash = "94860b409aba184eafc2a14d1e58dcd6c2c18209"

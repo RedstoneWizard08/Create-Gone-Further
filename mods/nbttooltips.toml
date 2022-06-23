@@ -1,8 +1,0 @@
-name = "NBTtooltips"
-filename = "nbttooltips-0.1.1-1.18.x.jar"
-side = "both"
-
-[download]
-url = "null"
-hash-format = "sha1"
-hash = "04fbc40eb4e602d48c9127b15c84fa0730bf91fc"

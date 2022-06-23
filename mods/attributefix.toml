@@ -1,8 +1,0 @@
-name = "AttributeFix"
-filename = "AttributeFix-Fabric-1.18.2-14.0.2.jar"
-side = "both"
-
-[download]
-url = "https://edge.forgecdn.net/files/3801/86/AttributeFix-Fabric-1.18.2-14.0.2.jar"
-hash-format = "sha1"
-hash = "56f0a893b9c9392aeabe31d8e443f8cbebed77e5"

@@ -1,8 +1,0 @@
-name = "Macaw's Bridges"
-filename = "mcw-bridges-2.0.3fabric-mc1.18.2.jar"
-side = "both"
-
-[download]
-url = "https://edge.forgecdn.net/files/3793/698/mcw-bridges-2.0.3fabric-mc1.18.2.jar"
-hash-format = "sha1"
-hash = "67252d90c2bc7c4e09098867f8fead0f230d77b1"

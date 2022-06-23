@@ -1,8 +1,0 @@
-name = "Farmer's Delight [Fabric]"
-filename = "farmers-delight-fabric-0.2.1.jar"
-side = "both"
-
-[download]
-url = "https://edge.forgecdn.net/files/3770/564/farmers-delight-fabric-0.2.1.jar"
-hash-format = "sha1"
-hash = "3abc9a207f8f6e6f7d9c0f41ecb0d2a68d8ab593"

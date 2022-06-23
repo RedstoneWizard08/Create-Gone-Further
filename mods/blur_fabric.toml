@@ -1,8 +1,0 @@
-name = "Blur (Fabric)"
-filename = "blur-2.4.1.jar"
-side = "both"
-
-[download]
-url = "https://edge.forgecdn.net/files/3548/709/blur-2.4.1.jar"
-hash-format = "sha1"
-hash = "4e9eb6718bf1aae922f7abd6fc93be1db49e5a4c"

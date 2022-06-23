@@ -1,8 +1,0 @@
-name = "ProbeJS"
-filename = "probejs-3.0.0-fabric.jar"
-side = "both"
-
-[download]
-url = "https://edge.forgecdn.net/files/3817/854/probejs-3.0.0-fabric.jar"
-hash-format = "sha1"
-hash = "4c545decacb4a1cf35958ecf0fef16bc1518704e"

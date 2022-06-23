@@ -1,8 +1,0 @@
-name = "Bookshelf"
-filename = "Bookshelf-Fabric-1.18.2-13.2.21.jar"
-side = "both"
-
-[download]
-url = "https://edge.forgecdn.net/files/3832/269/Bookshelf-Fabric-1.18.2-13.2.21.jar"
-hash-format = "sha1"
-hash = "3b70dfa74e0f46ecc43d37ff8137da78ba26e0ea"

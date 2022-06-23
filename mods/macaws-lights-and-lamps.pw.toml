@@ -1,0 +1,13 @@
+name = "Macaw's Lights and Lamps"
+filename = "mcw-lights-1.0.3c fabric-mc1.18.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6c8d9d8146dec6718ab87e026f4c953f20abe349"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3750059
+project-id = 502372

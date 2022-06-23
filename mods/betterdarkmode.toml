@@ -1,8 +1,0 @@
-name = "BetterDarkMode"
-filename = "betterdarkmode-1.0.5.jar"
-side = "both"
-
-[download]
-url = "null"
-hash-format = "sha1"
-hash = "e5ac5341a4b55c76e7480e6bf8da0049be5bfcdd"

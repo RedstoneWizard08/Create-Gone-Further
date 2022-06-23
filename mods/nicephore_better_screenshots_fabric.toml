@@ -1,8 +1,0 @@
-name = "Nicephore (better screenshots) [Fabric]"
-filename = "nicephore-fabric-1.18.x-1.2.1.jar"
-side = "both"
-
-[download]
-url = "https://edge.forgecdn.net/files/3651/224/nicephore-fabric-1.18.x-1.2.1.jar"
-hash-format = "sha1"
-hash = "b259f22e8db4fda70858ea8633004db4e03ccfc3"
