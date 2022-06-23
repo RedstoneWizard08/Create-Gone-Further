@@ -1,6 +1,8 @@
-The first beta release! This adds all the initial mods, and all of the configs.
 
 ### Mod List
+
+<details>
+<summary>Expand</summary>
 
 - Additional Additions | Fabric
 - AdvancementInfo
@@ -210,3 +212,5 @@ The first beta release! This adds all the initial mods, and all of the configs.
 - YUNG's Better Mineshafts (Fabric)
 - YUNG's Better Strongholds (Fabric)
 - YUNG's Better Witch Huts (Fabric)
+
+</details>

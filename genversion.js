@@ -7,7 +7,11 @@ const _modsList = fs.readdirSync(mods);
 const modsList = _modsList.filter((f) => f.endsWith(".toml"));
 
 let md = `
-### Mods:
+### Mod List
+
+<details>
+<summary>Expand</summary>
+
 `;
 
 modsList.forEach((f) => {
@@ -16,5 +20,7 @@ modsList.forEach((f) => {
 
   md += `- ${data.name}\n`;
 });
+
+md += `\n</details>`;
 
 fs.writeFileSync(path.join(__dirname, "VERSION.md"), md);
