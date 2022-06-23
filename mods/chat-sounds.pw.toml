@@ -1,0 +1,13 @@
+name = "Chat Sounds"
+filename = "chatsounds-1.1.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b0ae8f2abeed7fca508b80d7c722e893ada4a07d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3747031
+project-id = 459715

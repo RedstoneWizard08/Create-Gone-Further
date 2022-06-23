@@ -1,0 +1,13 @@
+name = "The Forge - Modular Tools for Fabric"
+filename = "the-forge-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2260829707fd0f7d93edf66252ce651d6d8ddba3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3831949
+project-id = 633015

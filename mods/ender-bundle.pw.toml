@@ -1,0 +1,13 @@
+name = "Ender Bundle"
+filename = "enderbundle-fabric-1.10.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bc6fc7fd490e7606daac15d745e086aead763fa8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3815142
+project-id = 541224

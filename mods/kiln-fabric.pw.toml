@@ -1,0 +1,13 @@
+name = "Kiln (Fabric)"
+filename = "kiln-1.18-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2074607761d9ec6197767a8cbd4775523f056f2f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3723859
+project-id = 434076
