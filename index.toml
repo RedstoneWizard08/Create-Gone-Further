@@ -2,7 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "0a269a8d2019a196e0792a5bb6f71775073d18945a26127daa1ccfbcd552e89c"
+hash = "eb7be44f73d34c6995e5a17c6651690b536ffd42691f6c062d9ff0705bfc6d84"
+
+[[files]]
+file = "VERSION.md"
+hash = "0b838b6467999ab1bacc2aa9344bbc457514bec6b6fcc2e65dfc8b0e8b5b27b1"
 
 [[files]]
 file = "config/BetterDarkMode/selected_color.conf"
@@ -1351,6 +1355,10 @@ hash = "5ac86027a679fb0478b86b9e25ed91dfee1561b599ac813b30adb3df8f7cc29b"
 [[files]]
 file = "download.js"
 hash = "03872d0a69735e40b1870db865ce26a6c12343c45f5780e568c1d870d41037f4"
+
+[[files]]
+file = "genversion.js"
+hash = "fa382446a528f4f977267140d0f59d5f7194b5a3ead21498645a2868a6c1eae0"
 
 [[files]]
 file = "knownkeys.txt"
@@ -2755,6 +2763,14 @@ hash = "5f1e564d633f7f006a8b82fad7adc541f28417e025181f689aef67a82494bf1b"
 [[files]]
 file = "options.txt"
 hash = "75656a1634b832999cafb0aae48feb948315838f31f8bcce95c496a12b4abd9f"
+
+[[files]]
+file = "package-lock.json"
+hash = "80a33b751ecc85c5e0283e4d7fbd5484ec8a2c5368cff9a88814135a7244d3f3"
+
+[[files]]
+file = "package.json"
+hash = "9481d5a8a1606a9f42cb62b8f6cfa58acafe9649b93d2ef7122eda7eee095b43"
 
 [[files]]
 file = "patchouli_data.json"

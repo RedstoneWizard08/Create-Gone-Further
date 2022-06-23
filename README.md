@@ -19,211 +19,213 @@ An <u>unofficial</u> continuation of <u>**Create: Above and Beyond**</u>. Have f
 - Has custom quests (WIP) - FTB Quests
 - Has custom recipes and items (WIP) - KubeJS
 
-### Mod List
+### Mods:
 
+- Additional Additions | Fabric
 - AdvancementInfo
+- Alloy Forgery
+- Alternate Current
+- Amecs (Fabric)
 - AppleSkin
-- AutoSwitch
-- Beautified Chat
+- Applied Energistics 2 Wireless Terminals
+- Applied Energistics 2
+- Architectury API (Fabric/Forge)
+- Architectury API (UNUSED)
+- AttributeFix
+- Auto Config Updated API
+- AutoReconnect
+- Bad Wither No Cookie - Reloaded [Fabric]
+- bad packets
+- Balm (Fabric Edition)
+- BCLib
+- Beautified Chat [Client] (Fabric)
 - Better Beds
-- BetterDarkMode
+- Better Biome Blend
+- Better Fps - Render Distance[Fabric]
 - Better Third Person
-- Blur
+- BetterDarkMode
+- BetterEnd
+- BetterF3
+- BetterNether
+- Bits And Chisels
+- Blur (Fabric)
 - Boat Item View
 - Boat Hud
+- Bobby
+- Bookshelf
+- Cammie's Wearable Backpacks
+- Fabric Capes
+- Cardinal Components
+- Carpet
 - Chat Heads
-- Clear Despawn
+- Chat Sounds
+- Chromatic Currents
+- Clear Despawn [Fabric]
+- Clickable advancements[Forge/Fabric]
 - ClickThrough
 - Client Side Noteblocks
-- Cloth Config API
-- Cull Leaves
-- Dark Loading Screen
-- Detail Armor Bar
-- Drip Sounds
-- Dynamic FPS
-- Dynamic Sound Filters
-- project-543559
-- OF Capes
-- Fabrishot
-- FastChest
-- FPS Reducer
-- Full Brightness Toggle
-- Held Item Info
-- Isometric Renders
-- Item Model Fix
-- Items IDs WorldEdit
-- Krypton
-- LambDynamicLights
-- Language Reload
-- Lava Clear View
-- lazy-language-loader
-- LazyDFU
-- Load My Resources
-- Logical Zoom
-- MinecraftCapes Mod
-- Mouse Tweaks
-- Name Pain
-- NBTtooltips
-- Nicephore
-- Phosphor
-- Smoke Suppression
-- Sodium
-- Very Many Players
-- Simple Voice Chat
-- Xaero's World Map
-- Xaero's Minimap
-- Amecs
-- Better Biome Blend
-- BetterF3
-- Better Fps - Render Distance
-- Bookshelf
-- Fabric Capes
-- Chat Sounds
-- Clickable advancements
-- Collective
+- Climb Ladders Fast [Fabric/Forge]
+- Cloth Config API (UNUSED)
+- Cloth Config API (Fabric/Forge)
+- Clumps
+- Collective (Fabric)
 - Continuity
 - Controlling
-- DefaultSettings Fabric
-- Eating Animation
-- Enchantment Descriptions
-- Enhanced Block Entities
-- Entity Culling Fabric/Forge
-- ExtraSounds
-- Fabric API
-- Fabric Language Kotlin
-- Falling Leaves
-- FastOpenLinksAndFolders
-- FerriteCore
-- ForgetMeChunk
-- Indium
-- Inventory Sorting
-- Iris Shaders
-- Konkrete
-- Lithium
-- Mod Menu
-- Mouse Wheelie
-- FancyMenu
-- Not Enough Crashes
-- Reese's Sodium Options
-- RightClickHarvest
-- Roughly Enough Items Fabric/Forge
-- Roughly Enough Professions
-- ShulkerBoxTooltip
-- Sodium Extra
-- VanillaTweaks
-- WTHIT
-- Wavey Capes
-- FTB Library
-- FTB Quests
-- FTB Ultimine
-- Create Crafts & Additions
+- Cooldown Coordinator
+- Create Chunkloading
 - Create Deco
 - Create Fabric
-- Create Chunkloading
+- Create Crafts & Additions
 - CreatePlus
-- Enriched
-- KubeJS
-- KubeJS Create
-- Patchouli
-- Trinkets
-- Clumps
-- Oh The Biomes You'll Go Refabricated
-- Macaw's Bridges
-- Macaw's Windows
-- Macaw's Roofs
-- Macaw's Fences and Walls
-- Macaw's Doors
-- Macaw's Trapdoors
-- Macaw's Lights and Lamps
-- TerraBlender
-- Macaw's Paintings
-- Macaw's Roofs - Oh The Biomes You'll Go
-- Macaw's Paths and Pavings
-- Macaw's Bridges - Oh The Biomes You'll Go
-- AttributeFix
-- Applied Energistics 2 Wireless Terminals
-- Tech Reborn
-- Reborn Core
-- Space Dimensions
+- Croparia v3 [FORGE/FABRIC]
+- Cull Leaves
+- Dark Loading Screen
 - Dark Utilities
-- Modern Industrialization
-- Hopper+
-- EnderChests
-- ShetiPhianCore
-- Ender Bundle
-- Cooldown Coordinator
-- Industrial Revolution
-- Wireless Networks
-- Iron Jetpacks Fabric
-- Auto Config Updated API
-- Alloy Forgery
-- oωo
-- Fabric Furnaces
-- Enhanced Quarries
-- Lib Block Attributes
-- Kiln
-- Dawn API
-- Tom's Simple Storage Mod
-- Bits And Chisels
-- Extra Generators
-- St'ructure Tools
-- Phonos
-- Alternate Current
-- Nikolite Expansion
-- Simple Grinder
-- Sync
-- Carpet
-- Smooth Boot
-- Additional Additions | Fabric
-- Tool Stats
-- BetterNether
-- BetterEnd
-- Disable Custom Worlds Advice
-- YUNG's API
-- YUNG's Better Strongholds
-- YUNG's Better Dungeons
-- YUNG's Better Mineshafts
-- YUNG's Better Witch Huts
-- YUNG's Better Desert Temples
-- Applied Energistics 2
-- Flytre Lib
-- Rhino
-- GeckoLib
-- JamLib
-- Bad Wither No Cookie - Reloaded
-- bad packets
-- Architectury API
-- Wilder World
-- Fabric Waystones
-- Friends&Foes
-- MixinTrace
-- Chromatic Currents
 - DashLoader
+- Dawn API
+- DefaultSettings Fabric
+- Detail Armor Bar [Fabric]
+- Disenchanter
+- Drip Sounds (Fabric)
+- Dynamic FPS
+- Dynamic Sound Filters
+- Enchanted Vertical Slabs
+- Enchantment Descriptions
+- Ender Bundle
+- EnderChests [Fabric]
+- Enhanced Block Entities
+- Enriched
+- Entity Culling Fabric/Forge
+- Extra Generators
+- ExtraSounds
+- Fabric API
+- AutoSwitch [Fabric]
 - Chisel Refabricated
-- FTB Teams
-- Item Filters
-- Physics Mod
-- BCLib
-- Sound Physics Remastered
-- Too Fast
-- Fastload
-- Climb Ladders Fast
+- [FABRIC] Disable Custom Worlds Advice
+- Fabric Furnaces
+- Fabric Language Kotlin
+- Fabric Waystones
+- Fabrishot
+- Falling Leaves (Fabric)
+- FancyMenu [Fabric]
+- Farmer's Delight [Fabric]
+- Farming for Blockheads (Fabric Edition)
+- FastChest
 - Faster Furnaces
-- Cloth Config API
+- Fastload
+- FastOpenLinksAndFolders
+- FerriteCore (Fabric)
+- ForgetMeChunk
+- FPS Reducer
+- Friends&Foes (Fabric)
+- FTB Library (Fabric)
+- FTB Quests (Fabric)
+- FTB Teams (Fabric)
+- FTB Ultimine (Fabric)
+- Full Brightness Toggle (Fabric)
+- GeckoLib
+- Held Item Info
+- Hopper+ (Better Hoppers)
+- Indium
+- Industrial Revolution
+- Inventory Sorting
+- Iron Jetpacks Fabric
+- Isometric Renders
+- Item Filters (Old)
+- Item Filters
+- Item Model Fix (Fabric)
+- Items IDs WorldEdit [Fabric]
+- JamLib
+- JourneyMap
+- Kibe Utilities
+- Kiln (Fabric)
+- Konkrete [Fabric]
+- Krypton
+- KubeJS Create
+- KubeJS
+- LambDynamicLights
+- Language Reload
+- Lava Clear View (Fabric)
+- lazy-language-loader (Fabric)
+- LazyDFU
+- Flytre Lib (FlytreLib)
+- Lib Block Attributes
+- Lithium (Fabric)
+- Load My Resources [Fabric]
+- Logical Zoom
+- Lootr (Fabric)
+- Macaw's Bridges - Oh The Biomes You'll Go
+- Macaw's Bridges
+- Macaw's Doors
+- Macaw's Fences and Walls
+- Macaw's Lights and Lamps
+- Macaw's Paintings
+- Macaw's Paths and Pavings
+- Macaw's Roofs - Oh The Biomes You'll Go
+- Macaw's Roofs
+- Macaw's Trapdoors
+- Macaw's Windows
+- MinecraftCapes Mod
+- Missing Wilds
+- MixinTrace
+- Modern Industrialization
+- Mod Menu
+- Space Dimensions (Fabric)
+- Mouse Tweaks
+- Mouse Wheelie (Fabric)
+- Name Pain
+- NBTtooltips
+- Nicephore (better screenshots) [Fabric]
+- Nikolite Expansion
+- Not Enough Crashes (Fabric)
+- OF Capes
+- Oh The Biomes You'll Go Refabricated
+- oωo (owo-lib)
+- Patchouli (Fabric/Quilt)
+- Phonos
+- Phosphor (Fabric)
+- Physics Mod
+- Pig Pen Cipher
+- ProbeJS
+- Reborn Core
+- Reese's Sodium Options
+- Rhino
+- RightClickHarvest
+- Roughly Enough Items Fabric/Forge (REI)
+- Roughly Enough Professions (REP)
 - Roughly Enough Resources
 - Roughly Searchable
-- Disenchanter
-- Basic AIOTs
-- Croparia v3
+- Runelic
+- ShetiPhianCore [Fabric]
+- ShulkerBoxTooltip
+- Simple Backpack [FABRIC]
+- Simple Grinder
+- Simple Voice Chat
+- Smoke Suppression
+- Smooth Boot (Fabric)
+- Sodium Extra
+- Sodium
+- Sound Physics Remastered
+- St'ructure Tools
+- Sync (Fabric)
+- Tech Reborn
+- TerraBlender (Fabric)
 - The Forge - Modular Tools for Fabric
-- Lootr
-- Missing Wilds
-- ProbeJS
-- Kibe Utilities
-- Bobby
-- AutoReconnect
-- Farmer's Delight
-- Farming for Blockheads
-- Balm
-- Cloth Config API
-- Spice of Fabric
+- Tom's Simple Storage Mod (Fabric)
+- Too Fast
+- Tool Stats
+- Traveler's Backpack [Fabric]
+- Trinkets (Fabric)
+- VanillaTweaks [Fabric & Forge]
+- Very Many Players (Fabric)
+- Wavey Capes
+- Wilder World
+- Wireless Networks
+- WTHIT
+- You're in Grave Danger
+- YUNG's API (Fabric)
+- YUNG's Better Desert Temples (Fabric)
+- YUNG's Better Dungeons (Fabric)
+- YUNG's Better Mineshafts (Fabric)
+- YUNG's Better Strongholds (Fabric)
+- YUNG's Better Witch Huts (Fabric)

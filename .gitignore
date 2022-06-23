@@ -31,3 +31,6 @@ chesttracker
 mods_gdl
 kubejs/probe
 journeymap
+node_modules
+*.mrpack
+*.zip

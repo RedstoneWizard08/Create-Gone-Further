@@ -35,3 +35,4 @@ journeymap
 download.json
 config.json
 mods.json
+node_modules
