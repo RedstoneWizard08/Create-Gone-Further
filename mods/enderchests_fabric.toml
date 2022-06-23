@@ -1,0 +1,8 @@
+name = "EnderChests [Fabric]"
+filename = "enderchests-[fabric]-1.18-1.0.9.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3765/376/enderchests-[fabric]-1.18-1.0.9.jar"
+hash-format = "sha1"
+hash = "f11bfad1604bc301c5a56ba0b15cf7683e22177d"

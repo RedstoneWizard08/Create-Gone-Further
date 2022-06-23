@@ -1,0 +1,8 @@
+name = "Climb Ladders Fast [Fabric/Forge]"
+filename = "climbladdersfast-2.2.2-1.18-fabric.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3842/99/climbladdersfast-2.2.2-1.18-fabric.jar"
+hash-format = "sha1"
+hash = "b8df174ad9b05a30eaa4adddca3803ca3c339dd8"

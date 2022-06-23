@@ -1,0 +1,8 @@
+name = "Rhino"
+filename = "rhino-fabric-1802.1.14-build.186.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3837/948/rhino-fabric-1802.1.14-build.186.jar"
+hash-format = "sha1"
+hash = "403b6d47690e5a6eefbd05e2a684f73cd825f451"

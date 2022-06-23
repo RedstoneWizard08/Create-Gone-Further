@@ -1,0 +1,8 @@
+name = "JourneyMap"
+filename = "journeymap-1.18.2-5.8.5-fabric.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3820/38/journeymap-1.18.2-5.8.5-fabric.jar"
+hash-format = "sha1"
+hash = "83c19923264a5f23252e42d793a3f6ae238f1295"

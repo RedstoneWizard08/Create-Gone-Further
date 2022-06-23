@@ -1,0 +1,8 @@
+name = "Wilder World"
+filename = "wilderworld-2.2.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3825/335/wilderworld-2.2.2.jar"
+hash-format = "sha1"
+hash = "fb645c8ea14e9f6c1da75d2f0c0beec5f0ad5895"

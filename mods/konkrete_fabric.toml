@@ -1,0 +1,8 @@
+name = "Konkrete [Fabric]"
+filename = "konkrete_fabric_1.3.3-1_MC_1.18-1.18.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3732/395/konkrete_fabric_1.3.3-1_MC_1.18-1.18.2.jar"
+hash-format = "sha1"
+hash = "bbaba6a43e917c5befca5a53322b61fd51b74677"

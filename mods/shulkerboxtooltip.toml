@@ -1,0 +1,8 @@
+name = "ShulkerBoxTooltip"
+filename = "shulkerboxtooltip-3.0.9+1.18.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3828/67/shulkerboxtooltip-3.0.9+1.18.2.jar"
+hash-format = "sha1"
+hash = "26e2af2f4afe7c4badf68fe5f67f16c3dc1d02de"

@@ -1,0 +1,8 @@
+name = "Dawn API"
+filename = "dawn-3.3.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3805/531/dawn-3.3.1.jar"
+hash-format = "sha1"
+hash = "bd15a7bff39ac57ca825557eadc388111cc559f1"

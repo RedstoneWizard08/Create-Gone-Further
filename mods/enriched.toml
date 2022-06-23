@@ -1,0 +1,8 @@
+name = "Enriched"
+filename = "enriched-2.3.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3706/116/enriched-2.3.0.jar"
+hash-format = "sha1"
+hash = "c15333020db0c90ef97aa22badd02e3131ca2d0f"

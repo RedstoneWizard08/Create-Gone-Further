@@ -1,0 +1,8 @@
+name = "Applied Energistics 2 Wireless Terminals"
+filename = "AE2WTLib-11.1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3835/936/AE2WTLib-11.1.1.jar"
+hash-format = "sha1"
+hash = "57bfe9ad3e2eaf5ddc84fdf6a614e501643a244e"

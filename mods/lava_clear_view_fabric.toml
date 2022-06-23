@@ -1,0 +1,8 @@
+name = "Lava Clear View (Fabric)"
+filename = "LavaClearView-1.18.2-fabric-4.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3722/293/LavaClearView-1.18.2-fabric-4.0.1.jar"
+hash-format = "sha1"
+hash = "324a532da7dcc5157323d91de0e1179e400f8dc7"

@@ -1,0 +1,8 @@
+name = "CreatePlus"
+filename = "createplus-1.0.0-beta4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3793/504/createplus-1.0.0-beta4.jar"
+hash-format = "sha1"
+hash = "199a839806d471ff5b44e65b084998e10ec176ef"

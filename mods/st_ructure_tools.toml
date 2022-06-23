@@ -1,0 +1,8 @@
+name = "St'ructure Tools"
+filename = "structure-tools-1.0.22.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3837/169/structure-tools-1.0.22.jar"
+hash-format = "sha1"
+hash = "3ae828251c6158668ebda7be9c394b1b406c1424"

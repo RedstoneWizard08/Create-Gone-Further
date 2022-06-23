@@ -1,0 +1,8 @@
+name = "Client Side Noteblocks"
+filename = "clientsidenoteblocks-2.1+1.18.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3586/440/clientsidenoteblocks-2.1+1.18.jar"
+hash-format = "sha1"
+hash = "1aaf546657a1c06a924449cfea1ae6214eb70578"

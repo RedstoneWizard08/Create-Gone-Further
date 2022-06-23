@@ -1,0 +1,8 @@
+name = "Traveler's Backpack [Fabric]"
+filename = "travelers-backpack-1.18.2-7.1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3844/873/travelers-backpack-1.18.2-7.1.1.jar"
+hash-format = "sha1"
+hash = "e74d4a4fd218e63bc9f4d5260029a3652bdc2080"

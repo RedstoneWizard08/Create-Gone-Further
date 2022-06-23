@@ -1,0 +1,8 @@
+name = "Collective (Fabric)"
+filename = "collective-fabric-1.18.x-4.27.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3821/255/collective-fabric-1.18.x-4.27.jar"
+hash-format = "sha1"
+hash = "e8aa2a5ef7f929c46a2ce193a366ddd63e449e41"

@@ -1,0 +1,8 @@
+name = "Space Dimensions (Fabric)"
+filename = "agape_space_18_2-0.5.14.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3810/594/agape_space_18_2-0.5.14.jar"
+hash-format = "sha1"
+hash = "a9024c0ea9f12573e5548f123be4024390eb5f19"

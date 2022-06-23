@@ -1,0 +1,8 @@
+name = "Croparia v3 [FORGE/FABRIC]"
+filename = "[FABRIC]-Croparia-3.8.3-1.18.2.jar"
+side = "both"
+
+[download]
+url = "null"
+hash-format = "sha1"
+hash = "8865abecad3370979a97dd902662e72c04c9d9c5"

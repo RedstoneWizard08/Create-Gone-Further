@@ -1,0 +1,8 @@
+name = "Fastload"
+filename = "Fastload-1.1.4+1.18.2.jar"
+side = "both"
+
+[download]
+url = "null"
+hash-format = "sha1"
+hash = "1fb2507c45a62368358bfcd63100d96d3270bca0"

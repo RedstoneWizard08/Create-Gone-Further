@@ -1,0 +1,8 @@
+name = "Load My Resources [Fabric]"
+filename = "loadmyresources_fabric_1.0.1-1_MC_1.18.jar"
+side = "both"
+
+[download]
+url = "null"
+hash-format = "sha1"
+hash = "8b55047f657d54aede0335db433ea5c12e045467"

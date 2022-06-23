@@ -1,11 +1,39 @@
-const cp = require("child_process");
-const json = require("./mods.json");
+const fs = require("fs");
+const path = require("path");
+const json = require("./config.json");
 
-json.forEach((mod, i, a) => {
+if (!fs.existsSync(path.join(__dirname, "mods")))
+  fs.mkdirSync(path.join(__dirname, "mods"));
+else {
+  fs.rmSync(path.join(__dirname, "mods"), { recursive: true });
+  fs.mkdirSync(path.join(__dirname, "mods"));
+}
+
+json.mods.forEach((mod, i, a) => {
   console.log(
-    `[${i + 1} / ${a.length}] Downloading mod ${mod.id} (file ${mod.file})...`
+    `\n-----------------------------------------------------\n[${i + 1} / ${
+      a.length
+    }] Downloading mod ${
+      mod.name
+    }...\n-----------------------------------------------------\n`
   );
-  cp.execSync(`packwiz cf add --addon-id ${mod.id} --file-id ${mod.file}`, {
-    stdio: "inherit",
-  });
+
+  const toml = `name = "${mod.name}"
+filename = "${mod.fileName}"
+side = "both"
+
+[download]
+url = "${mod.downloadUrl}"
+hash-format = "sha1"
+hash = "${mod.hashes.find((v) => v.algo == 1).value}"`;
+
+  const fileName = `${mod.name
+    .toLowerCase()
+    .trim()
+    .replace(/[^A-Za-z\s]+/gm, " ")
+    .replace(/\s+/gm, " ")
+    .trim()
+    .replace(/\s/gm, "_")}.toml`;
+  const filePath = path.join(__dirname, "mods", fileName);
+  fs.writeFileSync(filePath, toml);
 });

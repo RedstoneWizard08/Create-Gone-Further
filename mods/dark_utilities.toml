@@ -1,0 +1,8 @@
+name = "Dark Utilities"
+filename = "DarkUtilities-Fabric-1.18.2-10.0.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3830/308/DarkUtilities-Fabric-1.18.2-10.0.5.jar"
+hash-format = "sha1"
+hash = "6e3ef7a653de57b87ee5ff190b632d59ebbd4b01"

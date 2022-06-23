@@ -1,0 +1,8 @@
+name = "DashLoader"
+filename = "dashloader-4.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3820/19/dashloader-4.0.0.jar"
+hash-format = "sha1"
+hash = "3c1878393470e694bf36b7af03d7b538448da38b"

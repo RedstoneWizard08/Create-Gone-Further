@@ -1,0 +1,8 @@
+name = "Very Many Players (Fabric)"
+filename = "vmp-fabric-mc1.18.2-0.2.0+beta.3.17-all.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3669/618/vmp-fabric-mc1.18.2-0.2.0+beta.3.17-all.jar"
+hash-format = "sha1"
+hash = "160eefb8b0bb1c9f9ecc755c53d060a7755955bf"

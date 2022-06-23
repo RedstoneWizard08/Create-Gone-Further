@@ -1,0 +1,8 @@
+name = "Macaw's Paths and Pavings"
+filename = "mcw-paths-1.0.0fabric-mc1.18.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3810/632/mcw-paths-1.0.0fabric-mc1.18.2.jar"
+hash-format = "sha1"
+hash = "6bba856593eef2d2d9f2547856489b823f00a1a5"

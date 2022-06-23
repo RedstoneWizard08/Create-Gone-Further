@@ -1,0 +1,8 @@
+name = "Cardinal Components"
+filename = "cardinal-components-api-4.1.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3669/769/cardinal-components-api-4.1.4.jar"
+hash-format = "sha1"
+hash = "c6501b7212b947e115e4299106f908ca0ca2e9fe"

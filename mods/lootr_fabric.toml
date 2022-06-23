@@ -1,0 +1,8 @@
+name = "Lootr (Fabric)"
+filename = "lootr-1.18.2-0.3.20.57.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3808/738/lootr-1.18.2-0.3.20.57.jar"
+hash-format = "sha1"
+hash = "7d35ecb6633ba06e9a74d2f66f8a0798dc4b4b6a"

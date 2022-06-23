@@ -1,0 +1,8 @@
+name = "Alternate Current"
+filename = "alternate-current-mc1.18-1.4.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3842/538/alternate-current-mc1.18-1.4.0.jar"
+hash-format = "sha1"
+hash = "dfe5da57746177e4236b9ccafa91f9a85a7a0d3d"

@@ -1,0 +1,8 @@
+name = "YUNG's Better Witch Huts (Fabric)"
+filename = "YungsBetterWitchHuts-1.18.2-Fabric-1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3820/392/YungsBetterWitchHuts-1.18.2-Fabric-1.0.jar"
+hash-format = "sha1"
+hash = "56c0a343f56d11dbc9b6766ea1236ef6ee933461"

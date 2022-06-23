@@ -1,0 +1,8 @@
+name = "Faster Furnaces"
+filename = "fabric-fasterfurnaces-mod-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3683/421/fabric-fasterfurnaces-mod-1.0.1.jar"
+hash-format = "sha1"
+hash = "0475c6010d945787213aafd226c3783e712d1edd"

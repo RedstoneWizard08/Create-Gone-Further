@@ -1,0 +1,8 @@
+name = "Create Chunkloading"
+filename = "createchunkloading-1.1.0-fabric.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3739/771/createchunkloading-1.1.0-fabric.jar"
+hash-format = "sha1"
+hash = "7a6b877dd38c5d1ef0ab8943628dcceaab16d923"

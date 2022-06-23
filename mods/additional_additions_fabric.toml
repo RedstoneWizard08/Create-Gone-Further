@@ -1,0 +1,8 @@
+name = "Additional Additions | Fabric"
+filename = "AdditionalAdditions-4.0.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3831/347/AdditionalAdditions-4.0.5.jar"
+hash-format = "sha1"
+hash = "051373a5fb084396f71017de5dddaba06b533fec"

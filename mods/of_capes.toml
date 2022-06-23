@@ -1,0 +1,8 @@
+name = "OF Capes"
+filename = "fabric-optifine-capes-2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3642/880/fabric-optifine-capes-2.0.0.jar"
+hash-format = "sha1"
+hash = "cb51e47a14b2161a531944dec12a0a3f1617b55d"

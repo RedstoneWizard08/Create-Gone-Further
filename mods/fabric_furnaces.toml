@@ -1,0 +1,8 @@
+name = "Fabric Furnaces"
+filename = "fabric-furnaces-2.1.1-1.18.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3712/495/fabric-furnaces-2.1.1-1.18.2.jar"
+hash-format = "sha1"
+hash = "6ee3d05a0d9a4cb0d58286325ac9920c090269ea"
