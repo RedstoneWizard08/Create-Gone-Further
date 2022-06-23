@@ -34,3 +34,4 @@ journeymap
 node_modules
 *.mrpack
 *.zip
+tmp
