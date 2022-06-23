@@ -1,12 +1,12 @@
 name = "Create: Gone Further"
 author = "RedstoneWizard08"
-version = "0.1.0"
+version = "0.2.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "c556d11b03ecae01819d23c8829850fd76fc326fb92a8cd5bcf7078faee35ef6"
+hash = "a67216246a6f983e8a107e56e3a6eb905cd4bd120f30348fe5ada90db82b4d4d"
 
 [versions]
 fabric = "0.14.7"
