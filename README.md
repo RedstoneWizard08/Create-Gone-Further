@@ -2,7 +2,7 @@
 
 ![Version](https://img.shields.io/static/v1?label=Version&message=0.1.0&color=blue&style=for-the-badge)
 ![Fabric](https://img.shields.io/static/v1?label=Fabric&message=1.18.2+/+0.14.7&color=blue&style=for-the-badge)
-![Modrinth](https://img.shields.io/static/v1?label=Modrinth&message=Available&color=green&style=for-the-badge)
+![Modrinth](https://img.shields.io/static/v1?label=Modrinth&message=Beta&color=orange&style=for-the-badge)
 ![CurseForge](https://img.shields.io/static/v1?label=CurseForge&message=Not%20Available&color=red&style=for-the-badge)
 ![Maintained](https://img.shields.io/static/v1?label=Maintained&message=Yes&color=orange&style=for-the-badge)
 
@@ -10,7 +10,7 @@ An <u>unofficial</u> continuation of <u>**Create: Above and Beyond**</u>. Have f
 
 ### Features
 
-- Highly Performant - Based on [OutPerform](https://modrinth.com/modpack/outperform) / [Sodium Plus](https://modrinth.com/modpack/sodiumplus)
+- Highly Performant - Based on [OutPerform](https://modrinth.com/modpack/outperform) / [Sodium Plus](https://modrinth.com/modpack/sodiumplus) and optimized very well
 - Includes a ton of tech and magic mods
 - Adds a ton of content
 - Centralized around the Create Mod with recipes and quests (WIP)
@@ -19,7 +19,7 @@ An <u>unofficial</u> continuation of <u>**Create: Above and Beyond**</u>. Have f
 - Has custom quests (WIP) - FTB Quests
 - Has custom recipes and items (WIP) - KubeJS
 
-### Mods:
+### Mod List
 
 - Additional Additions | Fabric
 - AdvancementInfo

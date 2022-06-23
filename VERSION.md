@@ -1,5 +1,7 @@
+The first beta release! This adds all the initial mods, and all of the configs.
 
-### Mods:
+### Mod List
+
 - Additional Additions | Fabric
 - AdvancementInfo
 - Alloy Forgery
