@@ -1,0 +1,9 @@
+{
+  "copperTransportExtractDelay": 20,
+  "tinTransportExtractDelay": 10,
+  "silverTransportExtractDelay": 4,
+  "copperFluidExtractDelay": 20,
+  "tinFluidExtractDelay": 10,
+  "silverFluidExtractDelay": 4,
+  "stackTransportExtractDelay": 4
+}

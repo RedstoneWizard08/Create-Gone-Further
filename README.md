@@ -1,0 +1,229 @@
+# Create: Gone Further
+
+![Version](https://img.shields.io/static/v1?label=Version&message=0.1.0&color=blue&style=for-the-badge)
+![Fabric](https://img.shields.io/static/v1?label=Fabric&message=1.18.2+/+0.14.7&color=blue&style=for-the-badge)
+![Modrinth](https://img.shields.io/static/v1?label=Modrinth&message=Available&color=green&style=for-the-badge)
+![CurseForge](https://img.shields.io/static/v1?label=CurseForge&message=Not%20Available&color=red&style=for-the-badge)
+![Maintained](https://img.shields.io/static/v1?label=Maintained&message=Yes&color=orange&style=for-the-badge)
+
+An <u>unofficial</u> continuation of <u>**Create: Above and Beyond**</u>. Have fun!
+
+### Features
+
+- Highly Performant - Based on [OutPerform](https://modrinth.com/modpack/outperform) / [Sodium Plus](https://modrinth.com/modpack/sodiumplus)
+- Includes a ton of tech and magic mods
+- Adds a ton of content
+- Centralized around the Create Mod with recipes and quests (WIP)
+- Very self-intuitive
+- Includes multiple new dimensions
+- Has custom quests (WIP) - FTB Quests
+- Has custom recipes and items (WIP) - KubeJS
+
+### Mod List
+
+- AdvancementInfo
+- AppleSkin
+- AutoSwitch
+- Beautified Chat
+- Better Beds
+- BetterDarkMode
+- Better Third Person
+- Blur
+- Boat Item View
+- Boat Hud
+- Chat Heads
+- Clear Despawn
+- ClickThrough
+- Client Side Noteblocks
+- Cloth Config API
+- Cull Leaves
+- Dark Loading Screen
+- Detail Armor Bar
+- Drip Sounds
+- Dynamic FPS
+- Dynamic Sound Filters
+- project-543559
+- OF Capes
+- Fabrishot
+- FastChest
+- FPS Reducer
+- Full Brightness Toggle
+- Held Item Info
+- Isometric Renders
+- Item Model Fix
+- Items IDs WorldEdit
+- Krypton
+- LambDynamicLights
+- Language Reload
+- Lava Clear View
+- lazy-language-loader
+- LazyDFU
+- Load My Resources
+- Logical Zoom
+- MinecraftCapes Mod
+- Mouse Tweaks
+- Name Pain
+- NBTtooltips
+- Nicephore
+- Phosphor
+- Smoke Suppression
+- Sodium
+- Very Many Players
+- Simple Voice Chat
+- Xaero's World Map
+- Xaero's Minimap
+- Amecs
+- Better Biome Blend
+- BetterF3
+- Better Fps - Render Distance
+- Bookshelf
+- Fabric Capes
+- Chat Sounds
+- Clickable advancements
+- Collective
+- Continuity
+- Controlling
+- DefaultSettings Fabric
+- Eating Animation
+- Enchantment Descriptions
+- Enhanced Block Entities
+- Entity Culling Fabric/Forge
+- ExtraSounds
+- Fabric API
+- Fabric Language Kotlin
+- Falling Leaves
+- FastOpenLinksAndFolders
+- FerriteCore
+- ForgetMeChunk
+- Indium
+- Inventory Sorting
+- Iris Shaders
+- Konkrete
+- Lithium
+- Mod Menu
+- Mouse Wheelie
+- FancyMenu
+- Not Enough Crashes
+- Reese's Sodium Options
+- RightClickHarvest
+- Roughly Enough Items Fabric/Forge
+- Roughly Enough Professions
+- ShulkerBoxTooltip
+- Sodium Extra
+- VanillaTweaks
+- WTHIT
+- Wavey Capes
+- FTB Library
+- FTB Quests
+- FTB Ultimine
+- Create Crafts & Additions
+- Create Deco
+- Create Fabric
+- Create Chunkloading
+- CreatePlus
+- Enriched
+- KubeJS
+- KubeJS Create
+- Patchouli
+- Trinkets
+- Clumps
+- Oh The Biomes You'll Go Refabricated
+- Macaw's Bridges
+- Macaw's Windows
+- Macaw's Roofs
+- Macaw's Fences and Walls
+- Macaw's Doors
+- Macaw's Trapdoors
+- Macaw's Lights and Lamps
+- TerraBlender
+- Macaw's Paintings
+- Macaw's Roofs - Oh The Biomes You'll Go
+- Macaw's Paths and Pavings
+- Macaw's Bridges - Oh The Biomes You'll Go
+- AttributeFix
+- Applied Energistics 2 Wireless Terminals
+- Tech Reborn
+- Reborn Core
+- Space Dimensions
+- Dark Utilities
+- Modern Industrialization
+- Hopper+
+- EnderChests
+- ShetiPhianCore
+- Ender Bundle
+- Cooldown Coordinator
+- Industrial Revolution
+- Wireless Networks
+- Iron Jetpacks Fabric
+- Auto Config Updated API
+- Alloy Forgery
+- oωo
+- Fabric Furnaces
+- Enhanced Quarries
+- Lib Block Attributes
+- Kiln
+- Dawn API
+- Tom's Simple Storage Mod
+- Bits And Chisels
+- Extra Generators
+- St'ructure Tools
+- Phonos
+- Alternate Current
+- Nikolite Expansion
+- Simple Grinder
+- Sync
+- Carpet
+- Smooth Boot
+- Additional Additions | Fabric
+- Tool Stats
+- BetterNether
+- BetterEnd
+- Disable Custom Worlds Advice
+- YUNG's API
+- YUNG's Better Strongholds
+- YUNG's Better Dungeons
+- YUNG's Better Mineshafts
+- YUNG's Better Witch Huts
+- YUNG's Better Desert Temples
+- Applied Energistics 2
+- Flytre Lib
+- Rhino
+- GeckoLib
+- JamLib
+- Bad Wither No Cookie - Reloaded
+- bad packets
+- Architectury API
+- Wilder World
+- Fabric Waystones
+- Friends&Foes
+- MixinTrace
+- Chromatic Currents
+- DashLoader
+- Chisel Refabricated
+- FTB Teams
+- Item Filters
+- Physics Mod
+- BCLib
+- Sound Physics Remastered
+- Too Fast
+- Fastload
+- Climb Ladders Fast
+- Faster Furnaces
+- Cloth Config API
+- Roughly Enough Resources
+- Roughly Searchable
+- Disenchanter
+- Basic AIOTs
+- Croparia v3
+- The Forge - Modular Tools for Fabric
+- Lootr
+- Missing Wilds
+- ProbeJS
+- Kibe Utilities
+- Bobby
+- AutoReconnect
+- Farmer's Delight
+- Farming for Blockheads
+- Balm
+- Cloth Config API
+- Spice of Fabric

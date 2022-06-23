@@ -1,0 +1,83 @@
+To refresh this file, delete it and run /reload command again! Last updated: Jun 21, 2022, 2:54:43 PM
+
+#c:biofuel
+- createaddition:flowing_bioethanol
+- createaddition:bioethanol
+
+#c:crude_oil
+
+#c:creosote
+
+#minecraft:water
+- minecraft:water
+- minecraft:flowing_water
+- create:flowing_honey
+- create:honey
+- create:flowing_chocolate
+- create:chocolate
+- createaddition:flowing_seed_oil
+- createaddition:seed_oil
+- indrev:coolant_still
+- indrev:coolant_flowing
+- indrev:sulfuric_acid_still
+- indrev:sulfuric_acid_flowing
+- indrev:toxic_mud_still
+- indrev:toxic_mud_flowing
+- milk:flowing_milk?
+- milk:still_milk?
+
+#ae2:blacklisted/annihilation_plane
+
+#c:plantoil
+- createaddition:flowing_seed_oil
+- createaddition:seed_oil
+
+#c:milk
+- milk:flowing_milk?
+- milk:still_milk?
+
+#c:tea
+- create:flowing_tea
+- create:tea
+
+#c:water
+- #minecraft:water?
+
+#c:ethanol
+- createaddition:flowing_bioethanol
+- createaddition:bioethanol
+
+#c:lava
+- #minecraft:lava?
+
+#minecraft:lava
+- minecraft:lava
+- minecraft:flowing_lava
+- indrev:molten_netherite_still
+- indrev:molten_netherite_flowing
+- indrev:molten_iron_still
+- indrev:molten_iron_flowing
+- indrev:molten_copper_still
+- indrev:molten_copper_flowing
+- indrev:molten_gold_still
+- indrev:molten_gold_flowing
+- indrev:molten_tin_still
+- indrev:molten_tin_flowing
+- indrev:molten_lead_still
+- indrev:molten_lead_flowing
+- indrev:molten_silver_still
+- indrev:molten_silver_flowing
+
+#create:bottomless/deny
+
+#c:honey
+- create:flowing_honey
+- create:honey
+
+#create:bottomless/allow
+- minecraft:water
+- minecraft:lava
+
+#c:chocolate
+- create:flowing_chocolate
+- create:chocolate

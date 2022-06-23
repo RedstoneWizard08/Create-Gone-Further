@@ -1,0 +1,991 @@
+{
+	// Whether Nuclear Warheads are enabled
+	"nuclearWarheadEnabled": true,
+	// Whether to attempt to migrate old, broken data to new data. Usage recommended when first loading old chunks after an update
+	"compatibilityMode": true,
+	// Block Settings
+	"blocks": {
+		// Settings for Machines
+		"machines": {
+			// Settings for the Triturator
+			"triturator": {
+				// The base speed of the machine
+				"baseSpeed": 1.0,
+				// Settings for the primitive tier of this machine
+				"primitive": {
+					// The maximum energy able to be stored by this tier of the machine
+					"energyStorageSize": 48000,
+					// A modifier for this tier applied to the machine's base speed
+					"speedModifier": 0.5
+				},
+				// Settings for the basic tier of this machine
+				"basic": {
+					// The maximum energy able to be stored by this tier of the machine
+					"energyStorageSize": 96000,
+					// A modifier for this tier applied to the machine's base speed
+					"speedModifier": 1.0
+				},
+				// Settings for the advanced tier of this machine
+				"advanced": {
+					// The maximum energy able to be stored by this tier of the machine
+					"energyStorageSize": 192000,
+					// A modifier for this tier applied to the machine's base speed
+					"speedModifier": 2.0
+				},
+				// Settings for the elite tier of this machine
+				"elite": {
+					// The maximum energy able to be stored by this tier of the machine
+					"energyStorageSize": 384000,
+					// A modifier for this tier applied to the machine's base speed
+					"speedModifier": 4.0
+				},
+				// Settings for the creative tier of this machine if it exists
+				"creative": {
+					// The maximum energy able to be stored by this tier of the machine
+					"energyStorageSize": 9223372036854775807,
+					// A modifier for this tier applied to the machine's base speed
+					"speedModifier": 1.7976931348623157E308
+				}
+			},
+			// Settings for the Solid Generator
+			"solidGenerator": {
+				// The base speed of the machine
+				"baseSpeed": 1.0,
+				// Settings for the primitive tier of this machine
+				"primitive": {
+					// The maximum energy able to be stored by this tier of the machine
+					"energyStorageSize": 48000,
+					// A modifier for this tier applied to the machine's base speed
+					"speedModifier": 0.5
+				},
+				// Settings for the basic tier of this machine
+				"basic": {
+					// The maximum energy able to be stored by this tier of the machine
+					"energyStorageSize": 96000,
+					// A modifier for this tier applied to the machine's base speed
+					"speedModifier": 1.0
+				},
+				// Settings for the advanced tier of this machine
+				"advanced": {
+					// The maximum energy able to be stored by this tier of the machine
+					"energyStorageSize": 192000,
+					// A modifier for this tier applied to the machine's base speed
+					"speedModifier": 2.0
+				},
+				// Settings for the elite tier of this machine
+				"elite": {
+					// The maximum energy able to be stored by this tier of the machine
+					"energyStorageSize": 384000,
+					// A modifier for this tier applied to the machine's base speed
+					"speedModifier": 4.0
+				},
+				// Settings for the creative tier of this machine if it exists
+				"creative": {
+					// The maximum energy able to be stored by this tier of the machine
+					"energyStorageSize": 9223372036854775807,
+					// A modifier for this tier applied to the machine's base speed
+					"speedModifier": 1.7976931348623157E308
+				}
+			},
+			// Settings for the Press
+			"press": {
+				// The base speed of the machine
+				"baseSpeed": 1.0,
+				// Settings for the primitive tier of this machine
+				"primitive": {
+					// The maximum energy able to be stored by this tier of the machine
+					"energyStorageSize": 48000,
+					// A modifier for this tier applied to the machine's base speed
+					"speedModifier": 0.5
+				},
+				// Settings for the basic tier of this machine
+				"basic": {
+					// The maximum energy able to be stored by this tier of the machine
+					"energyStorageSize": 96000,
+					// A modifier for this tier applied to the machine's base speed
+					"speedModifier": 1.0
+				},
+				// Settings for the advanced tier of this machine
+				"advanced": {
+					// The maximum energy able to be stored by this tier of the machine
+					"energyStorageSize": 192000,
+					// A modifier for this tier applied to the machine's base speed
+					"speedModifier": 2.0
+				},
+				// Settings for the elite tier of this machine
+				"elite": {
+					// The maximum energy able to be stored by this tier of the machine
+					"energyStorageSize": 384000,
+					// A modifier for this tier applied to the machine's base speed
+					"speedModifier": 4.0
+				},
+				// Settings for the creative tier of this machine if it exists
+				"creative": {
+					// The maximum energy able to be stored by this tier of the machine
+					"energyStorageSize": 9223372036854775807,
+					// A modifier for this tier applied to the machine's base speed
+					"speedModifier": 1.7976931348623157E308
+				}
+			},
+			// Settings for the Wire Mill
+			"wireMill": {
+				// The base speed of the machine
+				"baseSpeed": 1.0,
+				// Settings for the primitive tier of this machine
+				"primitive": {
+					// The maximum energy able to be stored by this tier of the machine
+					"energyStorageSize": 48000,
+					// A modifier for this tier applied to the machine's base speed
+					"speedModifier": 0.5
+				},
+				// Settings for the basic tier of this machine
+				"basic": {
+					// The maximum energy able to be stored by this tier of the machine
+					"energyStorageSize": 96000,
+					// A modifier for this tier applied to the machine's base speed
+					"speedModifier": 1.0
+				},
+				// Settings for the advanced tier of this machine
+				"advanced": {
+					// The maximum energy able to be stored by this tier of the machine
+					"energyStorageSize": 192000,
+					// A modifier for this tier applied to the machine's base speed
+					"speedModifier": 2.0
+				},
+				// Settings for the elite tier of this machine
+				"elite": {
+					// The maximum energy able to be stored by this tier of the machine
+					"energyStorageSize": 384000,
+					// A modifier for this tier applied to the machine's base speed
+					"speedModifier": 4.0
+				},
+				// Settings for the creative tier of this machine if it exists
+				"creative": {
+					// The maximum energy able to be stored by this tier of the machine
+					"energyStorageSize": 9223372036854775807,
+					// A modifier for this tier applied to the machine's base speed
+					"speedModifier": 1.7976931348623157E308
+				}
+			},
+			// Settings for the Fluid Generator
+			"fluidGenerator": {
+				// The base speed of the machine
+				"baseSpeed": 1000.0,
+				// Settings for the primitive tier of this machine
+				"primitive": {
+					// The maximum fluid able to be stored by this tier of the machine
+					"fluidStorageSize": 1296000,
+					// The maximum energy able to be stored by this tier of the machine
+					"energyStorageSize": 48000,
+					// A modifier for this tier applied to the machine's base speed
+					"speedModifier": 0.5
+				},
+				// Settings for the basic tier of this machine
+				"basic": {
+					// The maximum fluid able to be stored by this tier of the machine
+					"fluidStorageSize": 2592000,
+					// The maximum energy able to be stored by this tier of the machine
+					"energyStorageSize": 96000,
+					// A modifier for this tier applied to the machine's base speed
+					"speedModifier": 1.0
+				},
+				// Settings for the advanced tier of this machine
+				"advanced": {
+					// The maximum fluid able to be stored by this tier of the machine
+					"fluidStorageSize": 5184000,
+					// The maximum energy able to be stored by this tier of the machine
+					"energyStorageSize": 192000,
+					// A modifier for this tier applied to the machine's base speed
+					"speedModifier": 2.0
+				},
+				// Settings for the elite tier of this machine
+				"elite": {
+					// The maximum fluid able to be stored by this tier of the machine
+					"fluidStorageSize": 10368000,
+					// The maximum energy able to be stored by this tier of the machine
+					"energyStorageSize": 384000,
+					// A modifier for this tier applied to the machine's base speed
+					"speedModifier": 4.0
+				},
+				// Settings for the creative tier of this machine if it exists
+				"creative": {
+					// The maximum fluid able to be stored by this tier of the machine
+					"fluidStorageSize": 9223372036854775807,
+					// The maximum energy able to be stored by this tier of the machine
+					"energyStorageSize": 9223372036854775807,
+					// A modifier for this tier applied to the machine's base speed
+					"speedModifier": 1.7976931348623157E308
+				}
+			},
+			// Settings for the Fluid Mixer
+			"fluidMixer": {
+				// The base speed of the machine
+				"baseSpeed": 1000.0,
+				// Settings for the primitive tier of this machine
+				"primitive": {
+					// The maximum fluid able to be stored by this tier of the machine
+					"fluidStorageSize": 1296000,
+					// The maximum energy able to be stored by this tier of the machine
+					"energyStorageSize": 48000,
+					// A modifier for this tier applied to the machine's base speed
+					"speedModifier": 0.5
+				},
+				// Settings for the basic tier of this machine
+				"basic": {
+					// The maximum fluid able to be stored by this tier of the machine
+					"fluidStorageSize": 2592000,
+					// The maximum energy able to be stored by this tier of the machine
+					"energyStorageSize": 96000,
+					// A modifier for this tier applied to the machine's base speed
+					"speedModifier": 1.0
+				},
+				// Settings for the advanced tier of this machine
+				"advanced": {
+					// The maximum fluid able to be stored by this tier of the machine
+					"fluidStorageSize": 5184000,
+					// The maximum energy able to be stored by this tier of the machine
+					"energyStorageSize": 192000,
+					// A modifier for this tier applied to the machine's base speed
+					"speedModifier": 2.0
+				},
+				// Settings for the elite tier of this machine
+				"elite": {
+					// The maximum fluid able to be stored by this tier of the machine
+					"fluidStorageSize": 10368000,
+					// The maximum energy able to be stored by this tier of the machine
+					"energyStorageSize": 384000,
+					// A modifier for this tier applied to the machine's base speed
+					"speedModifier": 4.0
+				},
+				// Settings for the creative tier of this machine if it exists
+				"creative": {
+					// The maximum fluid able to be stored by this tier of the machine
+					"fluidStorageSize": 9223372036854775807,
+					// The maximum energy able to be stored by this tier of the machine
+					"energyStorageSize": 9223372036854775807,
+					// A modifier for this tier applied to the machine's base speed
+					"speedModifier": 1.7976931348623157E308
+				}
+			},
+			// Settings for the Electrolyzer
+			"electrolyzer": {
+				// The base speed of the machine
+				"baseSpeed": 1000.0,
+				// Settings for the primitive tier of this machine
+				"primitive": {
+					// The maximum fluid able to be stored by this tier of the machine
+					"fluidStorageSize": 1296000,
+					// The maximum energy able to be stored by this tier of the machine
+					"energyStorageSize": 48000,
+					// A modifier for this tier applied to the machine's base speed
+					"speedModifier": 0.5
+				},
+				// Settings for the basic tier of this machine
+				"basic": {
+					// The maximum fluid able to be stored by this tier of the machine
+					"fluidStorageSize": 2592000,
+					// The maximum energy able to be stored by this tier of the machine
+					"energyStorageSize": 96000,
+					// A modifier for this tier applied to the machine's base speed
+					"speedModifier": 1.0
+				},
+				// Settings for the advanced tier of this machine
+				"advanced": {
+					// The maximum fluid able to be stored by this tier of the machine
+					"fluidStorageSize": 5184000,
+					// The maximum energy able to be stored by this tier of the machine
+					"energyStorageSize": 192000,
+					// A modifier for this tier applied to the machine's base speed
+					"speedModifier": 2.0
+				},
+				// Settings for the elite tier of this machine
+				"elite": {
+					// The maximum fluid able to be stored by this tier of the machine
+					"fluidStorageSize": 10368000,
+					// The maximum energy able to be stored by this tier of the machine
+					"energyStorageSize": 384000,
+					// A modifier for this tier applied to the machine's base speed
+					"speedModifier": 4.0
+				},
+				// Settings for the creative tier of this machine if it exists
+				"creative": {
+					// The maximum fluid able to be stored by this tier of the machine
+					"fluidStorageSize": 9223372036854775807,
+					// The maximum energy able to be stored by this tier of the machine
+					"energyStorageSize": 9223372036854775807,
+					// A modifier for this tier applied to the machine's base speed
+					"speedModifier": 1.7976931348623157E308
+				}
+			},
+			// Settings for the Refinery
+			"refinery": {
+				// The base speed of the machine
+				"baseSpeed": 1000.0,
+				// Settings for the primitive tier of this machine
+				"primitive": {
+					// The maximum fluid able to be stored by this tier of the machine
+					"fluidStorageSize": 1296000,
+					// The maximum energy able to be stored by this tier of the machine
+					"energyStorageSize": 48000,
+					// A modifier for this tier applied to the machine's base speed
+					"speedModifier": 0.5
+				},
+				// Settings for the basic tier of this machine
+				"basic": {
+					// The maximum fluid able to be stored by this tier of the machine
+					"fluidStorageSize": 2592000,
+					// The maximum energy able to be stored by this tier of the machine
+					"energyStorageSize": 96000,
+					// A modifier for this tier applied to the machine's base speed
+					"speedModifier": 1.0
+				},
+				// Settings for the advanced tier of this machine
+				"advanced": {
+					// The maximum fluid able to be stored by this tier of the machine
+					"fluidStorageSize": 5184000,
+					// The maximum energy able to be stored by this tier of the machine
+					"energyStorageSize": 192000,
+					// A modifier for this tier applied to the machine's base speed
+					"speedModifier": 2.0
+				},
+				// Settings for the elite tier of this machine
+				"elite": {
+					// The maximum fluid able to be stored by this tier of the machine
+					"fluidStorageSize": 10368000,
+					// The maximum energy able to be stored by this tier of the machine
+					"energyStorageSize": 384000,
+					// A modifier for this tier applied to the machine's base speed
+					"speedModifier": 4.0
+				},
+				// Settings for the creative tier of this machine if it exists
+				"creative": {
+					// The maximum fluid able to be stored by this tier of the machine
+					"fluidStorageSize": 9223372036854775807,
+					// The maximum energy able to be stored by this tier of the machine
+					"energyStorageSize": 9223372036854775807,
+					// A modifier for this tier applied to the machine's base speed
+					"speedModifier": 1.7976931348623157E308
+				}
+			},
+			// Settings for the Electric Furnace
+			"electricFurnace": {
+				// The base speed of the machine
+				"baseSpeed": 1.0,
+				// Settings for the primitive tier of this machine
+				"primitive": {
+					// The maximum energy able to be stored by this tier of the machine
+					"energyStorageSize": 48000,
+					// A modifier for this tier applied to the machine's base speed
+					"speedModifier": 0.5
+				},
+				// Settings for the basic tier of this machine
+				"basic": {
+					// The maximum energy able to be stored by this tier of the machine
+					"energyStorageSize": 96000,
+					// A modifier for this tier applied to the machine's base speed
+					"speedModifier": 1.0
+				},
+				// Settings for the advanced tier of this machine
+				"advanced": {
+					// The maximum energy able to be stored by this tier of the machine
+					"energyStorageSize": 192000,
+					// A modifier for this tier applied to the machine's base speed
+					"speedModifier": 2.0
+				},
+				// Settings for the elite tier of this machine
+				"elite": {
+					// The maximum energy able to be stored by this tier of the machine
+					"energyStorageSize": 384000,
+					// A modifier for this tier applied to the machine's base speed
+					"speedModifier": 4.0
+				},
+				// Settings for the creative tier of this machine if it exists
+				"creative": {
+					// The maximum energy able to be stored by this tier of the machine
+					"energyStorageSize": 9223372036854775807,
+					// A modifier for this tier applied to the machine's base speed
+					"speedModifier": 1.7976931348623157E308
+				}
+			},
+			// Settings for the Alloy Smelter
+			"alloySmelter": {
+				// The base speed of the machine
+				"baseSpeed": 1.0,
+				// Settings for the primitive tier of this machine
+				"primitive": {
+					// The maximum energy able to be stored by this tier of the machine
+					"energyStorageSize": 144000,
+					// A modifier for this tier applied to the machine's base speed
+					"speedModifier": 0.5
+				},
+				// Settings for the basic tier of this machine
+				"basic": {
+					// The maximum energy able to be stored by this tier of the machine
+					"energyStorageSize": 288000,
+					// A modifier for this tier applied to the machine's base speed
+					"speedModifier": 1.0
+				},
+				// Settings for the advanced tier of this machine
+				"advanced": {
+					// The maximum energy able to be stored by this tier of the machine
+					"energyStorageSize": 576000,
+					// A modifier for this tier applied to the machine's base speed
+					"speedModifier": 2.0
+				},
+				// Settings for the elite tier of this machine
+				"elite": {
+					// The maximum energy able to be stored by this tier of the machine
+					"energyStorageSize": 1152000,
+					// A modifier for this tier applied to the machine's base speed
+					"speedModifier": 4.0
+				},
+				// Settings for the creative tier of this machine if it exists
+				"creative": {
+					// The maximum energy able to be stored by this tier of the machine
+					"energyStorageSize": 9223372036854775805,
+					// A modifier for this tier applied to the machine's base speed
+					"speedModifier": 1.7976931348623157E308
+				}
+			},
+			// Settings for the Melter
+			"melter": {
+				// The base speed of the machine
+				"baseSpeed": 1.0,
+				// Settings for the primitive tier of this machine
+				"primitive": {
+					// The maximum fluid able to be stored by this tier of the machine
+					"fluidStorageSize": 1296000,
+					// The maximum energy able to be stored by this tier of the machine
+					"energyStorageSize": 48000,
+					// A modifier for this tier applied to the machine's base speed
+					"speedModifier": 0.5
+				},
+				// Settings for the basic tier of this machine
+				"basic": {
+					// The maximum fluid able to be stored by this tier of the machine
+					"fluidStorageSize": 2592000,
+					// The maximum energy able to be stored by this tier of the machine
+					"energyStorageSize": 96000,
+					// A modifier for this tier applied to the machine's base speed
+					"speedModifier": 1.0
+				},
+				// Settings for the advanced tier of this machine
+				"advanced": {
+					// The maximum fluid able to be stored by this tier of the machine
+					"fluidStorageSize": 5184000,
+					// The maximum energy able to be stored by this tier of the machine
+					"energyStorageSize": 192000,
+					// A modifier for this tier applied to the machine's base speed
+					"speedModifier": 2.0
+				},
+				// Settings for the elite tier of this machine
+				"elite": {
+					// The maximum fluid able to be stored by this tier of the machine
+					"fluidStorageSize": 10368000,
+					// The maximum energy able to be stored by this tier of the machine
+					"energyStorageSize": 384000,
+					// A modifier for this tier applied to the machine's base speed
+					"speedModifier": 4.0
+				},
+				// Settings for the creative tier of this machine if it exists
+				"creative": {
+					// The maximum fluid able to be stored by this tier of the machine
+					"fluidStorageSize": 9223372036854775807,
+					// The maximum energy able to be stored by this tier of the machine
+					"energyStorageSize": 9223372036854775807,
+					// A modifier for this tier applied to the machine's base speed
+					"speedModifier": 1.7976931348623157E308
+				}
+			},
+			// Settings for the Solidifier
+			"solidifier": {
+				// The base speed of the machine
+				"baseSpeed": 1000.0,
+				// Settings for the primitive tier of this machine
+				"primitive": {
+					// The maximum fluid able to be stored by this tier of the machine
+					"fluidStorageSize": 1296000,
+					// The maximum energy able to be stored by this tier of the machine
+					"energyStorageSize": 48000,
+					// A modifier for this tier applied to the machine's base speed
+					"speedModifier": 0.5
+				},
+				// Settings for the basic tier of this machine
+				"basic": {
+					// The maximum fluid able to be stored by this tier of the machine
+					"fluidStorageSize": 2592000,
+					// The maximum energy able to be stored by this tier of the machine
+					"energyStorageSize": 96000,
+					// A modifier for this tier applied to the machine's base speed
+					"speedModifier": 1.0
+				},
+				// Settings for the advanced tier of this machine
+				"advanced": {
+					// The maximum fluid able to be stored by this tier of the machine
+					"fluidStorageSize": 5184000,
+					// The maximum energy able to be stored by this tier of the machine
+					"energyStorageSize": 192000,
+					// A modifier for this tier applied to the machine's base speed
+					"speedModifier": 2.0
+				},
+				// Settings for the elite tier of this machine
+				"elite": {
+					// The maximum fluid able to be stored by this tier of the machine
+					"fluidStorageSize": 10368000,
+					// The maximum energy able to be stored by this tier of the machine
+					"energyStorageSize": 384000,
+					// A modifier for this tier applied to the machine's base speed
+					"speedModifier": 4.0
+				},
+				// Settings for the creative tier of this machine if it exists
+				"creative": {
+					// The maximum fluid able to be stored by this tier of the machine
+					"fluidStorageSize": 9223372036854775807,
+					// The maximum energy able to be stored by this tier of the machine
+					"energyStorageSize": 9223372036854775807,
+					// A modifier for this tier applied to the machine's base speed
+					"speedModifier": 1.7976931348623157E308
+				}
+			}
+		},
+		// Settings for Utilities
+		"utilities": {
+			// Settings for Capacitors
+			"capacitors": {
+				// The base speed of the machine
+				"baseSpeed": 10.0,
+				// Settings for the primitive tier of this machine
+				"primitive": {
+					// The maximum energy able to be stored by this tier of the machine
+					"energyStorageSize": 192000,
+					// A modifier for this tier applied to the machine's base speed
+					"speedModifier": 0.5
+				},
+				// Settings for the basic tier of this machine
+				"basic": {
+					// The maximum energy able to be stored by this tier of the machine
+					"energyStorageSize": 384000,
+					// A modifier for this tier applied to the machine's base speed
+					"speedModifier": 1.0
+				},
+				// Settings for the advanced tier of this machine
+				"advanced": {
+					// The maximum energy able to be stored by this tier of the machine
+					"energyStorageSize": 768000,
+					// A modifier for this tier applied to the machine's base speed
+					"speedModifier": 2.0
+				},
+				// Settings for the elite tier of this machine
+				"elite": {
+					// The maximum energy able to be stored by this tier of the machine
+					"energyStorageSize": 1536000,
+					// A modifier for this tier applied to the machine's base speed
+					"speedModifier": 4.0
+				},
+				// Settings for the creative tier of this machine if it exists
+				"creative": {
+					// The maximum energy able to be stored by this tier of the machine
+					"energyStorageSize": 9223372036854775807,
+					// A modifier for this tier applied to the machine's base speed
+					"speedModifier": 1.7976931348623157E308
+				}
+			},
+			// Settings for Tanks
+			"tanks": {
+				// The base speed of the machine
+				"baseSpeed": 10.0,
+				// Settings for the primitive tier of this machine
+				"primitive": {
+					// The maximum fluid able to be stored by this tier of the machine
+					"fluidStorageSize": 1296000,
+					// A modifier for this tier applied to the machine's base speed
+					"speedModifier": 0.5
+				},
+				// Settings for the basic tier of this machine
+				"basic": {
+					// The maximum fluid able to be stored by this tier of the machine
+					"fluidStorageSize": 2592000,
+					// A modifier for this tier applied to the machine's base speed
+					"speedModifier": 1.0
+				},
+				// Settings for the advanced tier of this machine
+				"advanced": {
+					// The maximum fluid able to be stored by this tier of the machine
+					"fluidStorageSize": 5184000,
+					// A modifier for this tier applied to the machine's base speed
+					"speedModifier": 2.0
+				},
+				// Settings for the elite tier of this machine
+				"elite": {
+					// The maximum fluid able to be stored by this tier of the machine
+					"fluidStorageSize": 10368000,
+					// A modifier for this tier applied to the machine's base speed
+					"speedModifier": 4.0
+				},
+				// Settings for the creative tier of this machine if it exists
+				"creative": {
+					// The maximum fluid able to be stored by this tier of the machine
+					"fluidStorageSize": 9223372036854775807,
+					// A modifier for this tier applied to the machine's base speed
+					"speedModifier": 1.7976931348623157E308
+				}
+			},
+			// Settings for the Block Placer
+			"blockPlacer": {
+				// The delay between actions of the utility (smaller = faster)
+				"delay": 40.0,
+				// The maximum energy able to be stored by this utility
+				"energyStorageSize": 48000,
+				// The energy consumed by each action of this utility
+				"energyConsumed": 1024
+			},
+			// Settings for the Block Breaker
+			"blockBreaker": {
+				// The delay between actions of the utility (smaller = faster)
+				"delay": 40.0,
+				// The maximum energy able to be stored by this utility
+				"energyStorageSize": 48000,
+				// The energy consumed by each action of this utility
+				"energyConsumed": 1024
+			},
+			// Settings for the Fluid Placer
+			"fluidPlacer": {
+				// The maximum fluid able to be stored by this utility
+				"fluidStorageSize": 324000,
+				// The delay between actions of the utility (smaller = faster)
+				"delay": 40.0,
+				// The maximum energy able to be stored by this utility
+				"energyStorageSize": 48000,
+				// The energy consumed by each action of this utility
+				"energyConsumed": 1024
+			},
+			// Settings for the Fluid Collector
+			"fluidCollector": {
+				// The maximum fluid able to be stored by this utility
+				"fluidStorageSize": 324000,
+				// The delay between actions of the utility (smaller = faster)
+				"delay": 40.0,
+				// The maximum energy able to be stored by this utility
+				"energyStorageSize": 48000,
+				// The energy consumed by each action of this utility
+				"energyConsumed": 1024
+			}
+		}
+	},
+	// Item Settings
+	"items": {
+		// Settings for Batteries
+		"batteries": {
+			// Energy for single batteries
+			"singleBatteries": {
+				// Energy for the Primitive Battery
+				"primitive": 8000,
+				// Energy for the Basic Battery
+				"basic": 16000,
+				// Energy for the Advanced Battery
+				"advanced": 32000,
+				// Energy for the Elite Battery
+				"elite": 64000
+			},
+			// Energy for battery packs
+			"batteryPacks": {
+				// Energy for the Primitive Battery Pack
+				"primitive": 48000,
+				// Energy for the Basic Battery Pack
+				"basic": 96000,
+				// Energy for the Advanced Battery Pack
+				"advanced": 192000,
+				// Energy for the Elite Battery Pack
+				"elite": 384000
+			}
+		},
+		// Settings for Portable Tanks
+		"portableTanks": {
+			// Fluid for the Portable Tank
+			"regular": 324000,
+			// Fluid for the Large Portable Tank
+			"large": 648000
+		},
+		// Energy for the Gravity Gauntlet
+		"gravityGauntletEnergy": 32000,
+		// Energy for the Gravity Gauntlet actions
+		"gravityGauntletConsumed": 512,
+		// Delay for the Fire Extinguisher sneaking actions
+		"fireExtinguisherSneakingDelay": 2,
+		// Delay for the Fire Extinguisher standing actions
+		"fireExtinguisherStandingDelay": 10,
+		// Energy for the Drill block breaking
+		"drillConsumedBlockBreak": 6,
+		// Energy for the Drill entity hits
+		"drillConsumedEntityHit": 12,
+		// Energy for the Primitive Drill
+		"primitiveDrillEnergy": 96000,
+		// Energy for the Basic Drill
+		"basicDrillEnergy": 192000,
+		// Energy for the Advanced Drill
+		"advancedDrillEnergy": 384000,
+		// Energy for the Elite Drill
+		"eliteDrillEnergy": 768000,
+		// Energy for the Space Suit Chestplate
+		"spaceSuitChestplateEnergy": 768000,
+		// Fluid for the Space Suit Chestplate
+		"spaceSuitChestplateFluid": 1296000,
+		// Fluid consumption for the Space Suit Chestplate
+		"spaceSuitChestplateFluidConsumption": 36,
+		// Energy consumption for the Space Suit Chestplate
+		"spaceSuitChestplateEnergyConsumption": 21
+	},
+	// World Settings
+	"world": {
+		// Settings for the layers
+		"layers": {
+			// Settings for the Overworld layer
+			"overworld": {
+				// Y level to travel to this layer
+				"travelY": -58,
+				// Y level to spawn at in this layer
+				"spawnY": 992
+			},
+			// Settings for the Earth Orbit layer
+			"earthOrbit": {
+				// Y level to travel to this layer
+				"travelY": 1024,
+				// Y level to spawn at in this layer
+				"spawnY": 32
+			}
+		},
+		// Settings for Ores
+		"ores": {
+			// Settings for Asteroid Coal Ore
+			"asteroidCoalOre": {
+				// Minimum range of this ore's weight
+				"minRange": 0,
+				// Maximum range of this ore's weight
+				"maxRange": 100,
+				// Minimum size of this ore's veins
+				"minSize": 8,
+				// Maximum size of this ore's veins
+				"maxSize": 48
+			},
+			// Settings for Asteroid Iron Ore
+			"asteroidIronOre": {
+				// Minimum range of this ore's weight
+				"minRange": 0,
+				// Maximum range of this ore's weight
+				"maxRange": 100,
+				// Minimum size of this ore's veins
+				"minSize": 8,
+				// Maximum size of this ore's veins
+				"maxSize": 48
+			},
+			// Settings for Asteroid Gold Ore
+			"asteroidGoldOre": {
+				// Minimum range of this ore's weight
+				"minRange": 0,
+				// Maximum range of this ore's weight
+				"maxRange": 100,
+				// Minimum size of this ore's veins
+				"minSize": 8,
+				// Maximum size of this ore's veins
+				"maxSize": 48
+			},
+			// Settings for Asteroid Copper Ore
+			"asteroidCopperOre": {
+				// Minimum range of this ore's weight
+				"minRange": 0,
+				// Maximum range of this ore's weight
+				"maxRange": 100,
+				// Minimum size of this ore's veins
+				"minSize": 8,
+				// Maximum size of this ore's veins
+				"maxSize": 48
+			},
+			// Settings for Asteroid Tin Ore
+			"asteroidTinOre": {
+				// Minimum range of this ore's weight
+				"minRange": 0,
+				// Maximum range of this ore's weight
+				"maxRange": 100,
+				// Minimum size of this ore's veins
+				"minSize": 8,
+				// Maximum size of this ore's veins
+				"maxSize": 48
+			},
+			// Settings for Asteroid Silver Ore
+			"asteroidSilverOre": {
+				// Minimum range of this ore's weight
+				"minRange": 0,
+				// Maximum range of this ore's weight
+				"maxRange": 100,
+				// Minimum size of this ore's veins
+				"minSize": 8,
+				// Maximum size of this ore's veins
+				"maxSize": 48
+			},
+			// Settings for Asteroid Lead Ore
+			"asteroidLeadOre": {
+				// Minimum range of this ore's weight
+				"minRange": 0,
+				// Maximum range of this ore's weight
+				"maxRange": 100,
+				// Minimum size of this ore's veins
+				"minSize": 8,
+				// Maximum size of this ore's veins
+				"maxSize": 48
+			},
+			// Settings for Asteroid Redstone Ore
+			"asteroidRedstoneOre": {
+				// Minimum range of this ore's weight
+				"minRange": 0,
+				// Maximum range of this ore's weight
+				"maxRange": 40,
+				// Minimum size of this ore's veins
+				"minSize": 8,
+				// Maximum size of this ore's veins
+				"maxSize": 48
+			},
+			// Settings for Asteroid Lapis Ore
+			"asteroidLapisOre": {
+				// Minimum range of this ore's weight
+				"minRange": 0,
+				// Maximum range of this ore's weight
+				"maxRange": 40,
+				// Minimum size of this ore's veins
+				"minSize": 8,
+				// Maximum size of this ore's veins
+				"maxSize": 48
+			},
+			// Settings for Asteroid Diamond Ore
+			"asteroidDiamondOre": {
+				// Minimum range of this ore's weight
+				"minRange": 0,
+				// Maximum range of this ore's weight
+				"maxRange": 50,
+				// Minimum size of this ore's veins
+				"minSize": 8,
+				// Maximum size of this ore's veins
+				"maxSize": 48
+			},
+			// Settings for Asteroid Emerald Ore
+			"asteroidEmeraldOre": {
+				// Minimum range of this ore's weight
+				"minRange": 0,
+				// Maximum range of this ore's weight
+				"maxRange": 50,
+				// Minimum size of this ore's veins
+				"minSize": 8,
+				// Maximum size of this ore's veins
+				"maxSize": 48
+			},
+			// Settings for Asteroid Metite Ore
+			"asteroidMetiteOre": {
+				// Minimum range of this ore's weight
+				"minRange": 0,
+				// Maximum range of this ore's weight
+				"maxRange": 50,
+				// Minimum size of this ore's veins
+				"minSize": 8,
+				// Maximum size of this ore's veins
+				"maxSize": 48
+			},
+			// Settings for Asteroid Asterite Ore
+			"asteroidAsteriteOre": {
+				// Minimum range of this ore's weight
+				"minRange": 0,
+				// Maximum range of this ore's weight
+				"maxRange": 40,
+				// Minimum size of this ore's veins
+				"minSize": 8,
+				// Maximum size of this ore's veins
+				"maxSize": 48
+			},
+			// Settings for Asteroid Stellum Ore
+			"asteroidStellumOre": {
+				// Minimum range of this ore's weight
+				"minRange": 0,
+				// Maximum range of this ore's weight
+				"maxRange": 30,
+				// Minimum size of this ore's veins
+				"minSize": 8,
+				// Maximum size of this ore's veins
+				"maxSize": 48
+			},
+			// Settings for Asteroid Galaxium Ore
+			"asteroidGalaxiumOre": {
+				// Minimum range of this ore's weight
+				"minRange": 0,
+				// Maximum range of this ore's weight
+				"maxRange": 20,
+				// Minimum size of this ore's veins
+				"minSize": 8,
+				// Maximum size of this ore's veins
+				"maxSize": 48
+			},
+			// Whether generation of Overworld Tin Ore is enabled or not
+			"overworldTinOre": true,
+			// Whether generation of Overworld Silver Ore is enabled or not
+			"overworldSilverOre": true,
+			// Whether generation of Overworld Lead Ore is enabled or not
+			"overworldLeadOre": true
+		},
+		// Gravity level in Space
+		"spaceGravity": 0.009999999776482582,
+		// Gravity for non-Astromine dimensions
+		"gravity": 0.08,
+		// Whether generation of Overworld Crude Oil Wells is enabled or not
+		"crudeOilWellsGeneration": true,
+		// Whether generation of Overworld Meteors is enabled or not
+		"meteorGeneration": true,
+		// Threshold for Asteroid Ore generation
+		"asteroidOreGenerationThreshold": 2,
+		// Threshold for Asteroid generation
+		"asteroidGenerationThreshold": 0.5450000166893005,
+		// Threshold for Crude Oil Well generation
+		"crudeOilWellGenerationThreshold": 2000
+	},
+	// Network Settings
+	"networks": {
+		// Settings for Primitive Energy Network
+		"primitiveEnergyNetwork": {
+			// Transfer rate of this network
+			"transferRate": 256
+		},
+		// Settings for Basic Energy Network
+		"basicEnergyNetwork": {
+			// Transfer rate of this network
+			"transferRate": 512
+		},
+		// Settings for Advanced Energy Network
+		"advancedEnergyNetwork": {
+			// Transfer rate of this network
+			"transferRate": 1024
+		},
+		// Settings for Elite Energy Network
+		"eliteEnergyNetwork": {
+			// Transfer rate of this network
+			"transferRate": 4096
+		},
+		// Settings for the Fluid Network
+		"fluidNetwork": {
+			// Transfer rate of this network
+			"transferRate": 324000
+		},
+		// Settings for the Item Network
+		"itemNetwork": {
+			// Transfer rate of this network
+			"transferRate": 1
+		}
+	},
+	// Entity Settings
+	"entities": {
+		// Chance for Piglins to realize if you try to trick them (1 in x)
+		"piglinAngerChance": 5,
+		// The maximum fuel a Primitive Rocket can hold
+		"primitiveRocketFluid": 1296000
+	},
+	// Secret Settings
+	"secret": {
+		// Whether AK9 should asphyxiate
+		"asphyxiateAK9": true
+	}
+}

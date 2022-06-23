@@ -1,0 +1,13 @@
+{
+  "servers": {
+    "play.nosadnile.net:25565": {
+      "forcedProtocol": -1
+    },
+    "isb-smp.nosadnile.net:25587": {
+      "forcedProtocol": -1
+    },
+    "mc.hypixel.net:25565": {
+      "forcedProtocol": -1
+    }
+  }
+}

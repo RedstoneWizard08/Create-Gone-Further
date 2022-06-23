@@ -1,0 +1,76 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_429
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=345184%
+  orientation = bottom-left
+  x = 325
+  action = movebutton
+  y = -283
+}
+
+customization {
+  identifier = %id=400334%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = 65
+}
+
+customization {
+  orientation = top-left
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = opengui
+  x = 325
+  width = 310
+  actionid = e5d9b9f7-8974-4f31-bae3-d7d794c335401640717902695
+  action = addbutton
+  y = 246
+  label = Mods
+  value = com.terraformersmc.modmenu.gui.ModsScreen
+  height = 20
+}
+
+customization {
+  orientation = top-left
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = opengui
+  x = 325
+  width = 310
+  actionid = e5d9b9f7-8974-4f31-bae3-d7d794c335401640717902695
+  action = addbutton
+  y = 270
+  label = FlytreLib Config
+  value = net.flytre.flytre_lib.impl.config.client.ConfigListerScreen
+  height = 20
+}
+
+customization {
+  identifier = %id=505304%
+  orientation = top-left
+  x = 325
+  action = movebutton
+  y = 293
+}
+
+customization {
+  identifier = %id=505304%
+  width = 310
+  action = resizebutton
+  height = 20
+}
+
