@@ -5,16 +5,12 @@ file = ".vscode/probe.code-snippets"
 hash = "869184a1cdb9acaee9a43ca0e0902be6868aefa70e1e9e6301768f020bacd037"
 
 [[files]]
-file = ".vscode/settings.json"
-hash = "0b515c8a9fc2116f46a506915b991995d40f98e3858472bcac5f90f81b5f5094"
-
-[[files]]
 file = "README.md"
 hash = "0a269a8d2019a196e0792a5bb6f71775073d18945a26127daa1ccfbcd552e89c"
 
 [[files]]
 file = "config.json"
-hash = "02db5ac5910a559f4c27052def558c4e0c6c987301fec2d0b980466cefeb9ae8"
+hash = "1669bd9fdfb15b1c7f29c7aa0481cc115e6e67e7770a8e54866ead47b525b7a4"
 
 [[files]]
 file = "config/BetterDarkMode/selected_color.conf"
@@ -481,6 +477,10 @@ file = "config/byg/trades.json5"
 hash = "620285bc36ee71b0f2c2556c7f34a65ce5cceee8fead26ec92c2f105a8fbcbe5"
 
 [[files]]
+file = "config/camsbackpacks.json"
+hash = "ec2d12dc92fcbfd3cb9bcc6e5711abac9b01d6ea9d54d215f44d47616f222c1e"
+
+[[files]]
 file = "config/capes.json5"
 hash = "80bd4a2bd17a1ee911499bd1ea1fa80bc5ac9d92a9ff550d499f1c7171c7dbf7"
 
@@ -606,7 +606,7 @@ hash = "a39d3315eab1dacbaf6f15c30adf3e347b1821f4dc4fd110bf89f15dd02b08c2"
 
 [[files]]
 file = "config/dashloader.json"
-hash = "0ecd31f792554124bec23b8f5d9dae3b44718f7e53922c8ab9d384c9591ac194"
+hash = "d7adda70a62ec6dfda18b5d68ff0ce5537749c8dc734900bcaca55fa8843c522"
 
 [[files]]
 file = "config/dawn/features.json"
@@ -1413,6 +1413,42 @@ file = "journeymap/data/sp/Create_ Gone Further/overworld/3/-1,-2.png"
 hash = "a0852336ce595e338e38411872bec11e649d429edc7fc8b40f1f6ad19268507f"
 
 [[files]]
+file = "journeymap/data/sp/Create_ Gone Further/overworld/3/-1,0.png"
+hash = "39072985ae87fe1a0b46f9bc719218f8b23119de6428014e6aa35a40444ac3b1"
+
+[[files]]
+file = "journeymap/data/sp/Create_ Gone Further/overworld/3/-1,1.png"
+hash = "eb7bc16d55de6cbb9ca931d2e96d7749d271463329e16577fbddae541e9d234d"
+
+[[files]]
+file = "journeymap/data/sp/Create_ Gone Further/overworld/3/-1,2.png"
+hash = "536b3c2a0ede867e142e8144ac98d96c78a676d5af911d754db8be1684255b37"
+
+[[files]]
+file = "journeymap/data/sp/Create_ Gone Further/overworld/3/-2,0.png"
+hash = "bab510f432c748e2c5c680b981bff13e0ee569a4508498fbe22cc6583dc2c34c"
+
+[[files]]
+file = "journeymap/data/sp/Create_ Gone Further/overworld/3/-2,1.png"
+hash = "6552b2734076f31277953e8dda919965dc1c3f1ba79160ce5e2affb6823a08c2"
+
+[[files]]
+file = "journeymap/data/sp/Create_ Gone Further/overworld/3/-2,2.png"
+hash = "2935fea5e111e709bda4858c59a9024a01c21631b4d42ef163bf1eacb9093976"
+
+[[files]]
+file = "journeymap/data/sp/Create_ Gone Further/overworld/3/-3,0.png"
+hash = "5fdeb35cdbde9700b50f71a29b6322d766352ce18c3668eed0336d4020507ff4"
+
+[[files]]
+file = "journeymap/data/sp/Create_ Gone Further/overworld/3/-3,1.png"
+hash = "90290fb4ed7023c3611d52af2480f5f3f38bdcbbe057164eeec1b705d9d5cc9d"
+
+[[files]]
+file = "journeymap/data/sp/Create_ Gone Further/overworld/3/-3,2.png"
+hash = "2b66bcb55bd465438986a019b3a5c6eb8a53820cb736e3607886cf536429c694"
+
+[[files]]
 file = "journeymap/data/sp/Create_ Gone Further/overworld/3/0,-1.png"
 hash = "cbbb3af8341139aaacbf08fe110b2ff6379d6c70cf9dcc6f7f6e34f0ece5d1a1"
 
@@ -1478,7 +1514,7 @@ hash = "12cebe25abf6803c131e5f2f2c292b91426fee0647932dec3e0c8bea9f4f41ab"
 
 [[files]]
 file = "journeymap/data/sp/Create_ Gone Further/overworld/biome/-2,1.png"
-hash = "947439405fa7838c43f3b7167c365c270d9236f07f49a1f021c16ba9417889c8"
+hash = "bec33c9f5ccde0b3032e571935552152e6a8c3ffc408605fd240c8d2270c5544"
 
 [[files]]
 file = "journeymap/data/sp/Create_ Gone Further/overworld/biome/-2,2.png"
@@ -1570,15 +1606,15 @@ hash = "0aac6ca6d11b09aa55eaee4f2e4a0ebcd8e6a423a0852fd8e562f61a970b10ac"
 
 [[files]]
 file = "journeymap/data/sp/Create_ Gone Further/overworld/day/-2,0.png"
-hash = "e28803359e97ac4169b0ee26ce36abc78384715b9fdf8afdffe3e478abbb9f44"
+hash = "c104ff96ee7da679ddabbb6f813db37b3153d34978e45fcc854c72090f7bf9b6"
 
 [[files]]
 file = "journeymap/data/sp/Create_ Gone Further/overworld/day/-2,1.png"
-hash = "129191a80936f5b32b1816102a5874056d49ad1752be39d5609b06a6ef937fcc"
+hash = "1057b8c3ad2bff4220c0abba6acab76c26068bcc8531103019ecb32fb54607dd"
 
 [[files]]
 file = "journeymap/data/sp/Create_ Gone Further/overworld/day/-2,2.png"
-hash = "97aa76f0d11b79e3f8436423c3468cca8b6fe3f67d689c6d2eea476bd2df43d2"
+hash = "9640d42b5671a6b4f8f28ebe8f02503897be8db3cad8efea3795e33fcec52f96"
 
 [[files]]
 file = "journeymap/data/sp/Create_ Gone Further/overworld/day/-3,-1.png"
@@ -1666,15 +1702,15 @@ hash = "d16daa3fe000cc039a333cacb3c7965f20122595bd4c4ee52019594f230ceab2"
 
 [[files]]
 file = "journeymap/data/sp/Create_ Gone Further/overworld/night/-2,0.png"
-hash = "7041199839d4040f79f6410f898bf9bf49f53c61c1f24b55e14fdca689fda1d9"
+hash = "f16181ca15126b6efe4294c4472a1f83917d5aa9edc6bdf16733cc14c275e9c6"
 
 [[files]]
 file = "journeymap/data/sp/Create_ Gone Further/overworld/night/-2,1.png"
-hash = "d19bbb998d079f7ea86120127701cd43ec7d56f7afc9247c9338924cbc3a98ae"
+hash = "6cf765b71d620b92ba3e90b6f52933f9e93416ebbdd9d5508e509b8fd6cb5c03"
 
 [[files]]
 file = "journeymap/data/sp/Create_ Gone Further/overworld/night/-2,2.png"
-hash = "e66603564c53091972fb0316ef3dd76472bfef0fea0be2a9e6eb1dbafe50e85c"
+hash = "63b9e89cc9e32be7a60533a48457390eb7c8fc05a9e11e5d47a8d19027c973b1"
 
 [[files]]
 file = "journeymap/data/sp/Create_ Gone Further/overworld/night/-3,-1.png"
@@ -1766,7 +1802,7 @@ hash = "ce8c3b5c2001adf66b885959b5eb54a0556021c118b2f9e7c9370c812a8da9b7"
 
 [[files]]
 file = "journeymap/data/sp/Create_ Gone Further/overworld/topo/-2,1.png"
-hash = "41b1fff87b92987f3918f06463a742a57172c316e4e2309678229ce146b8d2de"
+hash = "495ab872f73f76ba69333258b12470dfa93f67e4f9df4e0577919c252808ed1c"
 
 [[files]]
 file = "journeymap/data/sp/Create_ Gone Further/overworld/topo/-2,2.png"
@@ -2318,7 +2354,7 @@ hash = "70ac933ca3a16895c3826edfac645e6eec2f2b3de07dd86da7c7005157e4b824"
 
 [[files]]
 file = "journeymap/journeymap.log"
-hash = "b15fe352bc807710b9ef19c5186c096c02350374ea68bce066b6b985092ab4fe"
+hash = "0e6154c79f54e72267b866e9f07360a06eb5503acd0cab90c4fb854f6ed27808"
 
 [[files]]
 file = "journeymap/server/5.8/journeymap.server.ae2~spatial_storage.config"
@@ -3129,6 +3165,10 @@ file = "mods/dynamic-fps-2.1.0.jar"
 hash = "fdbe746970395d903d74ff2763c9bd2ad0dbf8959013d4c959dab0f46033c4e4"
 
 [[files]]
+file = "mods/enchanted-vertical-slabs-1.4.1.jar"
+hash = "a2b0b20bac6329d5570aca9c86561f3ff73e745b1318a5bf389f6b78d9718498"
+
+[[files]]
 file = "mods/enderbundle-fabric-1.10.0.jar"
 hash = "887e4107da89afc440598fb6dd35575ae90fec6c96386811d6dc6a4760ca57ab"
 
@@ -3562,7 +3602,7 @@ hash = "5f1e564d633f7f006a8b82fad7adc541f28417e025181f689aef67a82494bf1b"
 
 [[files]]
 file = "options.txt"
-hash = "a7330bc81520843131da285824a684d88e537c6cb8e385a93426360d2d80f630"
+hash = "75656a1634b832999cafb0aae48feb948315838f31f8bcce95c496a12b4abd9f"
 
 [[files]]
 file = "patchouli_data.json"
