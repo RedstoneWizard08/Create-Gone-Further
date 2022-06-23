@@ -27,6 +27,11 @@
 		// default: 1
 		// 	Must be greater or equal to 1
 		integrated-interaction-rate: 1
+		// Whether item types should check nbt data.
+		// This is for example used by scrolling and drop-clicking.
+		// NONE disables this, ALL checks for exactly the same nbt and SOME allows for differences in damage and echantments.
+		// default: SOME
+		item-kinds-nbt-match-mode: SOME
 	}
 	scrolling: {
 		// Enables scrolling of stacks
@@ -101,6 +106,10 @@
 			// default: true
 			equal-stacks: true
 		}
+		// Restore the refilled item to the originally selected slot.
+		// This will take a tad more time. You might want to turn this off on slow connections.
+		// default: true
+		restore-selected-slot: true
 	}
 	// Configure picking the correct tool for the currently faced block.
 	tool-picking: {

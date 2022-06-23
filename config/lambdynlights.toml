@@ -125,7 +125,13 @@ mode = "fancy"
 				painting = true
 				wither = true
 
+			[light_sources.settings.entities.wilderworld]
+				butterfly = true
+
 			[light_sources.settings.entities.friendsandfoes]
 				glare = true
 				moobloom = true
+
+			[light_sources.settings.entities.lootr]
+				lootr_minecart = true
 
